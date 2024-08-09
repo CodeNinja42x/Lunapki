@@ -1,0 +1,663 @@
+INFO:root:Starting model training...
+INFO:root:RandomForest model training complete.
+INFO:root:GradientBoosting model training complete.
+INFO:root:AdaBoost model training complete.
+INFO:root:CatBoost model training complete.
+INFO:root:XGBoost model training complete.
+INFO:root:LightGBM model training complete.
+INFO:root:LogisticRegression model training complete.
+INFO:root:Starting model training...
+INFO:root:RandomForest model training complete.
+INFO:root:GradientBoosting model training complete.
+INFO:root:AdaBoost model training complete.
+INFO:root:CatBoost model training complete.
+INFO:root:XGBoost model training complete.
+INFO:root:LightGBM model training complete.
+INFO:root:LogisticRegression model training complete.
+INFO:root:Starting model training...
+INFO:root:RandomForest model training complete.
+INFO:root:GradientBoosting model training complete.
+INFO:root:AdaBoost model training complete.
+INFO:root:CatBoost model training complete.
+INFO:root:XGBoost model training complete.
+INFO:root:LightGBM model training complete.
+INFO:root:LogisticRegression model training complete.
+INFO:root:Starting model training...
+INFO:root:RandomForest model training complete.
+INFO:root:GradientBoosting model training complete.
+INFO:root:AdaBoost model training complete.
+INFO:root:CatBoost model training complete.
+INFO:root:XGBoost model training complete.
+INFO:root:LightGBM model training complete.
+INFO:root:LogisticRegression model training complete.
+INFO:root:Starting model training...
+ERROR:root:Error during model training: "['target'] not found in axis"
+INFO:root:Starting model training...
+ERROR:root:Error during model training: "['target'] not found in axis"
+INFO:root:Starting model training...
+INFO:root:RandomForest model training complete.
+INFO:root:GradientBoosting model training complete.
+INFO:root:AdaBoost model training complete.
+INFO:root:CatBoost model training complete.
+INFO:root:XGBoost model training complete.
+INFO:root:LightGBM model training complete.
+INFO:root:LogisticRegression model training complete.
+INFO:root:Starting model training...
+INFO:root:RandomForest model training complete.
+INFO:root:GradientBoosting model training complete.
+INFO:root:AdaBoost model training complete.
+INFO:root:CatBoost model training complete.
+INFO:root:XGBoost model training complete.
+INFO:root:LightGBM model training complete.
+INFO:root:LogisticRegression model training complete.
+INFO:root:Starting model training...
+INFO:root:RandomForest model training complete.
+INFO:root:GradientBoosting model training complete.
+INFO:root:AdaBoost model training complete.
+INFO:root:CatBoost model training complete.
+INFO:root:XGBoost model training complete.
+INFO:root:LightGBM model training complete.
+INFO:root:LogisticRegression model training complete.
+INFO:root:Starting model training...
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:Starting model training...
+INFO:root:Data columns: ['feature1', 'feature2', 'target']
+INFO:root:First few rows of data:
+   feature1  feature2  target
+0         1         5       0
+1         2         4       1
+2         3         3       0
+3         4         2       1
+4         5         1       0
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:Starting model training...
+INFO:root:Data columns: ['feature1', 'feature2', 'target']
+INFO:root:First few rows of data:
+   feature1  feature2  target
+0         1         5       0
+1         2         4       1
+2         3         3       0
+3         4         2       1
+4         5         1       0
+INFO:root:Target distribution: target
+0    3
+1    2
+Name: count, dtype: int64
+INFO:root:Training data shape: (4, 2), Test data shape: (1, 2)
+INFO:root:Training target shape: (4,), Test target shape: (1,)
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:Starting model training...
+INFO:root:Data columns: ['feature1', 'feature2', 'target']
+INFO:root:First few rows of data:
+   feature1  feature2  target
+0         1         5       0
+1         2         4       1
+2         3         3       0
+3         4         2       1
+4         5         1       0
+INFO:root:Target distribution: target
+0    3
+1    2
+Name: count, dtype: int64
+INFO:root:Training data shape: (4, 2), Test data shape: (1, 2)
+INFO:root:Training target shape: (4,), Test target shape: (1,)
+INFO:root:First few rows of training data:
+   feature1  feature2
+4         5         1
+2         3         3
+0         1         5
+3         4         2
+INFO:root:First few rows of training target:
+4    0
+2    0
+0    0
+3    1
+Name: target, dtype: int64
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:Starting model training...
+INFO:root:Data columns: ['feature1', 'feature2', 'target']
+INFO:root:First few rows of data:
+   feature1  feature2  target
+0         1         5       0
+1         2         4       1
+2         3         3       0
+3         4         2       1
+4         5         1       0
+INFO:root:Target distribution: target
+0    3
+1    2
+Name: count, dtype: int64
+INFO:root:Training data shape: (4, 2), Test data shape: (1, 2)
+INFO:root:Training target shape: (4,), Test target shape: (1,)
+INFO:root:First few rows of training data:
+   feature1  feature2
+4         5         1
+2         3         3
+0         1         5
+3         4         2
+INFO:root:First few rows of training target:
+4    0
+2    0
+0    0
+3    1
+Name: target, dtype: int64
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:Starting model training...
+INFO:root:Data columns: ['feature1', 'feature2', 'target']
+INFO:root:First few rows of data:
+   feature1  feature2  target
+0         1         5       0
+1         2         4       1
+2         3         3       0
+3         4         2       1
+4         5         1       0
+INFO:root:Target distribution: target
+0    3
+1    2
+Name: count, dtype: int64
+INFO:root:Training data shape: (4, 2), Test data shape: (1, 2)
+INFO:root:Training target shape: (4,), Test target shape: (1,)
+INFO:root:First few rows of training data:
+   feature1  feature2
+4         5         1
+2         3         3
+0         1         5
+3         4         2
+INFO:root:First few rows of training target:
+4    0
+2    0
+0    0
+3    1
+Name: target, dtype: int64
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:Starting model training...
+INFO:root:Data columns: ['feature1', 'feature2', 'target']
+INFO:root:First few rows of data:
+   feature1  feature2  target
+0         1         5       0
+1         2         4       1
+2         3         3       0
+3         4         2       1
+4         5         1       0
+INFO:root:Target distribution: target
+0    3
+1    2
+Name: count, dtype: int64
+INFO:root:Training data shape: (4, 2), Test data shape: (1, 2)
+INFO:root:Training target shape: (4,), Test target shape: (1,)
+INFO:root:First few rows of training data:
+   feature1  feature2
+4         5         1
+2         3         3
+0         1         5
+3         4         2
+INFO:root:First few rows of training target:
+4    0
+2    0
+0    0
+3    1
+Name: target, dtype: int64
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:Starting model training...
+INFO:root:Data columns: ['feature1', 'feature2', 'target']
+INFO:root:First few rows of data:
+   feature1  feature2  target
+0         1         5       0
+1         2         4       1
+2         3         3       0
+3         4         2       1
+4         5         1       0
+INFO:root:Target distribution: target
+0    3
+1    2
+Name: count, dtype: int64
+INFO:root:Training data shape: (4, 2), Test data shape: (1, 2)
+INFO:root:Training target shape: (4,), Test target shape: (1,)
+INFO:root:First few rows of training data:
+   feature1  feature2
+4         5         1
+2         3         3
+0         1         5
+3         4         2
+INFO:root:First few rows of training target:
+4    0
+2    0
+0    0
+3    1
+Name: target, dtype: int64
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:Starting model training...
+INFO:root:Data columns: ['feature1', 'feature2', 'target']
+INFO:root:First few rows of data:
+   feature1  feature2  target
+0         1         5       0
+1         2         4       1
+2         3         3       0
+3         4         2       1
+4         5         1       0
+INFO:root:Target distribution: target
+0    3
+1    2
+Name: count, dtype: int64
+INFO:root:Training data shape: (4, 2), Test data shape: (1, 2)
+INFO:root:Training target shape: (4,), Test target shape: (1,)
+INFO:root:First few rows of training data:
+   feature1  feature2
+4         5         1
+2         3         3
+0         1         5
+3         4         2
+INFO:root:First few rows of training target:
+4    0
+2    0
+0    0
+3    1
+Name: target, dtype: int64
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:Starting model training...
+INFO:root:Data columns: ['feature1', 'feature2', 'target']
+INFO:root:First few rows of data:
+   feature1  feature2  target
+0         1         5       0
+1         2         4       1
+2         3         3       0
+3         4         2       1
+4         5         1       0
+INFO:root:Target distribution: target
+0    3
+1    2
+Name: count, dtype: int64
+INFO:root:Training data shape: (4, 2), Test data shape: (1, 2)
+INFO:root:Training target shape: (4,), Test target shape: (1,)
+INFO:root:First few rows of training data:
+   feature1  feature2
+4         5         1
+2         3         3
+0         1         5
+3         4         2
+INFO:root:First few rows of training target:
+4    0
+2    0
+0    0
+3    1
+Name: target, dtype: int64
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:Starting model training...
+INFO:root:Data columns: ['feature1', 'feature2', 'target']
+INFO:root:First few rows of data:
+   feature1  feature2  target
+0         1         5       0
+1         2         4       1
+2         3         3       0
+3         4         2       1
+4         5         1       0
+INFO:root:Target distribution: target
+0    3
+1    2
+Name: count, dtype: int64
+INFO:root:Training data shape: (4, 2), Test data shape: (1, 2)
+INFO:root:Training target shape: (4,), Test target shape: (1,)
+INFO:root:First few rows of training data:
+   feature1  feature2
+4         5         1
+2         3         3
+0         1         5
+3         4         2
+INFO:root:First few rows of training target:
+4    0
+2    0
+0    0
+3    1
+Name: target, dtype: int64
+INFO:root:RandomForest model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:GradientBoosting model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:AdaBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:CatBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:XGBoost model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LightGBM model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+INFO:root:LogisticRegression model training complete.
+INFO:root:Accuracy: 0.0, Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 02:31:38,863 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 02:31:39,173 RandomForest model trained and saved
+2024-06-02 02:31:39,295 GradientBoosting model trained and saved
+2024-06-02 02:31:39,458 AdaBoost model trained and saved
+2024-06-02 02:31:39,467 LogisticRegression model trained and saved
+2024-06-02 02:31:39,519 XGBoost model trained and saved
+2024-06-02 02:31:39,651 LightGBM model trained and saved
+2024-06-02 02:31:40,754 CatBoost model trained and saved
+2024-06-02 02:31:48,053 Ensemble Model trained with accuracy: 0.0
+2024-06-02 02:31:48,053 Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 02:31:48,296 Ensemble model saved
+2024-06-02 02:35:14,757 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 02:35:14,766 Error splitting data: Expected n_neighbors <= n_samples_fit, but n_neighbors = 6, n_samples_fit = 1, n_samples = 1
+2024-06-02 02:38:20,682 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 02:38:20,690 Error splitting data: Expected n_neighbors <= n_samples_fit, but n_neighbors = 6, n_samples_fit = 1, n_samples = 1
+2024-06-02 02:42:30,729 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 02:42:30,744 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 02:42:30,745 SMOTE error: The 'k_neighbors' parameter of SMOTE must be an int in the range [1, inf) or an object implementing 'kneighbors' and 'kneighbors_graph'. Got 0 instead.. Using RandomOverSampler instead.
+2024-06-02 02:42:30,756 Error training model: n_splits=5 cannot be greater than the number of members in each class.
+2024-06-02 02:47:17,293 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 02:47:17,304 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 02:47:17,305 SMOTE error: The 'k_neighbors' parameter of SMOTE must be an int in the range [1, inf) or an object implementing 'kneighbors' and 'kneighbors_graph'. Got 0 instead.. Using RandomOverSampler instead.
+2024-06-02 02:47:17,312 Error training model: k-fold cross-validation requires at least one train/test split by setting n_splits=2 or more, got n_splits=1.
+2024-06-02 02:54:24,956 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 02:54:24,967 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 02:54:24,968 SMOTE error: The 'k_neighbors' parameter of SMOTE must be an int in the range [1, inf) or an object implementing 'kneighbors' and 'kneighbors_graph'. Got 0 instead.. Using RandomOverSampler instead.
+2024-06-02 02:54:29,366 RandomForest model trained and saved
+2024-06-02 02:54:30,847 GradientBoosting model trained and saved
+2024-06-02 02:54:31,985 AdaBoost model trained and saved
+2024-06-02 02:54:32,058 LogisticRegression model trained and saved
+2024-06-02 02:54:32,619 XGBoost model trained and saved
+2024-06-02 02:54:33,828 LightGBM model trained and saved
+2024-06-02 02:54:35,682 CatBoost model trained and saved
+2024-06-02 02:54:36,346 Ensemble Model trained with accuracy: 0.0
+2024-06-02 02:54:36,346 Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 02:54:36,617 Ensemble model saved
+2024-06-02 02:57:33,864 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 02:57:33,876 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 02:57:37,662 RandomForest model trained and saved
+2024-06-02 02:57:38,972 GradientBoosting model trained and saved
+2024-06-02 02:57:40,010 AdaBoost model trained and saved
+2024-06-02 02:57:40,073 LogisticRegression model trained and saved
+2024-06-02 02:57:40,417 XGBoost model trained and saved
+2024-06-02 02:57:43,739 LightGBM model trained and saved
+2024-06-02 02:57:45,027 CatBoost model trained and saved
+2024-06-02 02:57:45,688 Ensemble Model trained with accuracy: 0.0
+2024-06-02 02:57:45,688 Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 02:57:45,946 Ensemble model saved
+2024-06-02 03:00:01,844 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 03:00:01,855 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 03:00:06,614 RandomForest model trained and saved
+2024-06-02 03:00:08,041 GradientBoosting model trained and saved
+2024-06-02 03:00:09,498 AdaBoost model trained and saved
+2024-06-02 03:00:09,573 LogisticRegression model trained and saved
+2024-06-02 03:00:10,304 XGBoost model trained and saved
+2024-06-02 03:00:11,110 LightGBM model trained and saved
+2024-06-02 03:00:12,785 CatBoost model trained and saved
+2024-06-02 03:00:13,561 Ensemble Model trained with accuracy: 0.0
+2024-06-02 03:00:13,561 Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 03:00:13,867 Ensemble model saved
+2024-06-02 03:03:06,033 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 03:03:06,044 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 03:03:09,813 RandomForest model trained and saved
+2024-06-02 03:03:11,150 GradientBoosting model trained and saved
+2024-06-02 03:03:12,273 AdaBoost model trained and saved
+2024-06-02 03:03:12,334 LogisticRegression model trained and saved
+2024-06-02 03:03:12,677 XGBoost model trained and saved
+2024-06-02 03:03:13,362 LightGBM model trained and saved
+2024-06-02 03:03:15,055 CatBoost model trained and saved
+2024-06-02 03:03:15,728 Ensemble Model trained with accuracy: 0.0
+2024-06-02 03:03:15,728 Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 03:03:15,997 Ensemble model saved
+2024-06-02 03:07:31,064 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 03:07:31,074 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 03:07:36,835 RandomForest model trained and saved
+2024-06-02 03:07:42,671 GradientBoosting model trained and saved
+2024-06-02 03:07:45,546 AdaBoost model trained and saved
+2024-06-02 03:07:45,629 LogisticRegression model trained and saved
+2024-06-02 03:07:46,399 XGBoost model trained and saved
+2024-06-02 03:07:51,054 LightGBM model trained and saved
+2024-06-02 03:07:52,743 CatBoost model trained and saved
+2024-06-02 03:07:53,426 Ensemble Model trained with accuracy: 0.0
+2024-06-02 03:07:53,426 Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 03:07:53,694 Ensemble model saved
+2024-06-02 03:20:06,416 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 03:20:06,452 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 03:20:12,421 RandomForest model trained and saved
+2024-06-02 03:20:13,966 GradientBoosting model trained and saved
+2024-06-02 03:20:15,089 AdaBoost model trained and saved
+2024-06-02 03:20:15,165 LogisticRegression model trained and saved
+2024-06-02 03:20:15,651 XGBoost model trained and saved
+2024-06-02 03:20:21,165 LightGBM model trained and saved
+2024-06-02 03:20:22,987 CatBoost model trained and saved
+2024-06-02 03:20:24,430 Ensemble Model trained with accuracy: 0.0
+2024-06-02 03:20:24,430 Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 03:20:24,697 Ensemble model saved
+2024-06-02 05:46:58,697 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 05:46:58,733 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 05:47:03,704 RandomForest model trained and saved
+2024-06-02 05:47:05,751 GradientBoosting model trained and saved
+2024-06-02 05:47:07,274 AdaBoost model trained and saved
+2024-06-02 05:47:07,367 LogisticRegression model trained and saved
+2024-06-02 05:47:07,966 XGBoost model trained and saved
+2024-06-02 05:47:17,311 LightGBM model trained and saved
+2024-06-02 05:47:20,257 CatBoost model trained and saved
+2024-06-02 05:47:21,243 Ensemble Model trained with accuracy: 0.0
+2024-06-02 05:47:21,243 Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 05:47:21,575 Ensemble model saved
+2024-06-02 07:15:47,545 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 07:15:47,556 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 07:15:53,889 RandomForest model trained and saved
+2024-06-02 07:15:56,450 GradientBoosting model trained and saved
+2024-06-02 07:15:57,889 AdaBoost model trained and saved
+2024-06-02 07:15:57,976 LogisticRegression model trained and saved
+2024-06-02 07:16:00,432 XGBoost model trained and saved
+2024-06-02 07:16:12,994 LightGBM model trained and saved
+2024-06-02 07:16:15,832 CatBoost model trained and saved
+2024-06-02 07:16:16,837 Ensemble Model trained with accuracy: 0.0
+2024-06-02 07:16:16,837 Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 07:16:17,126 Ensemble model saved
+2024-06-02 08:18:40,095 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 08:18:40,104 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 08:18:45,817 RandomForest model trained and saved
+2024-06-02 08:18:47,879 GradientBoosting model trained and saved
+2024-06-02 08:18:49,628 AdaBoost model trained and saved
+2024-06-02 08:18:49,729 LogisticRegression model trained and saved
+2024-06-02 08:18:53,410 XGBoost model trained and saved
+2024-06-02 08:19:26,649 LightGBM model trained and saved
+2024-06-02 08:19:28,492 CatBoost model trained and saved
+2024-06-02 08:19:32,463 Ensemble Model trained with accuracy: 0.0
+2024-06-02 08:19:32,463 Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 08:19:33,193 Ensemble model saved
+2024-06-02 12:43:13,571 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 12:43:13,583 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 12:43:17,175 RandomForest model trained and saved
+2024-06-02 12:43:18,429 GradientBoosting model trained and saved
+2024-06-02 12:43:19,757 AdaBoost model trained and saved
+2024-06-02 12:43:19,850 LogisticRegression model trained and saved
+2024-06-02 12:43:21,669 XGBoost model trained and saved
+2024-06-02 12:43:31,922 LightGBM model trained and saved
+2024-06-02 12:43:33,264 CatBoost model trained and saved
+2024-06-02 12:43:34,085 Ensemble Model trained with accuracy: 0.0
+2024-06-02 12:43:34,085 Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 12:43:34,363 Ensemble model saved
+2024-06-02 14:18:57,608 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv
+2024-06-02 14:18:57,615 Class distribution in training data:
+target
+0    3
+1    1
+Name: count, dtype: int64
+2024-06-02 14:19:01,383 RandomForest model trained and saved
+2024-06-02 14:19:02,775 GradientBoosting model trained and saved
+2024-06-02 14:19:03,973 AdaBoost model trained and saved
+2024-06-02 14:19:04,042 LogisticRegression model trained and saved
+2024-06-02 14:19:06,253 XGBoost model trained and saved
+2024-06-02 14:19:23,646 LightGBM model trained and saved
+2024-06-02 14:19:25,210 CatBoost model trained and saved
+2024-06-02 14:19:26,597 Ensemble Model trained with accuracy: 0.0
+2024-06-02 14:19:26,597 Precision: 1.0, Recall: 0.0, F1 Score: 0.0
+2024-06-02 14:19:26,868 Ensemble model saved

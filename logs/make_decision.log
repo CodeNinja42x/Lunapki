@@ -1,0 +1,42 @@
+INFO:root:Making trading decision...
+INFO:root:Predictions: {'AdaBoost': 1, 'LightGBM': 0, 'LogisticRegression': 1, 'CatBoost': 1, 'GradientBoosting': 1, 'RandomForest': 1, 'XGBoost': 1}
+INFO:root:Trading decision: 1
+ERROR:root:API Key or Secret is missing.
+INFO:root:Making trading decision...
+INFO:root:Predictions: {'AdaBoost': 1, 'LightGBM': 0, 'LogisticRegression': 1, 'CatBoost': 1, 'GradientBoosting': 1, 'RandomForest': 1, 'XGBoost': 1}
+INFO:root:Trading decision: 1
+ERROR:root:API Key or Secret is missing.
+INFO:root:Making trading decision...
+INFO:root:Predictions: {'AdaBoost': 1, 'LightGBM': 0, 'LogisticRegression': 1, 'CatBoost': 1, 'GradientBoosting': 1, 'RandomForest': 1, 'XGBoost': 1}
+INFO:root:Trading decision: 1
+ERROR:root:API Key or Secret is missing.
+INFO:root:Making trading decision...
+INFO:root:Predictions: {'AdaBoost': 1, 'LightGBM': 0, 'LogisticRegression': 1, 'CatBoost': 1, 'GradientBoosting': 1, 'RandomForest': 1, 'XGBoost': 1}
+INFO:root:Trading decision: 1
+ERROR:root:API Key or Secret is missing.
+INFO:root:Making trading decision...
+ERROR:root:Error making decision: "['target'] not found in axis"
+INFO:root:Making trading decision...
+INFO:root:Predictions: {'AdaBoost': 0, 'LightGBM': 0, 'LogisticRegression': 0, 'CatBoost': 0, 'GradientBoosting': 0, 'RandomForest': 0, 'XGBoost': 0}
+INFO:root:Trading decision: 0
+ERROR:root:Binance API Exception: APIError(code=-2014): API-key format invalid.
+INFO:root:Making trading decision...
+INFO:root:Predictions: {'AdaBoost': 0, 'LightGBM': 0, 'LogisticRegression': 0, 'CatBoost': 0, 'GradientBoosting': 0, 'RandomForest': 0, 'XGBoost': 0}
+INFO:root:Trading decision: 0
+ERROR:root:Binance API Exception: APIError(code=-2014): API-key format invalid.
+INFO:root:Making trading decision...
+INFO:root:Predictions: {'AdaBoost': 0, 'LightGBM': 0, 'LogisticRegression': 0, 'CatBoost': 0, 'GradientBoosting': 0, 'RandomForest': 0, 'XGBoost': 0}
+INFO:root:Trading decision: 0
+ERROR:root:Binance API Exception: APIError(code=-2014): API-key format invalid.
+INFO:root:Making trading decision...
+INFO:root:Predictions: {'AdaBoost': 0, 'LightGBM': 0, 'LogisticRegression': 0, 'CatBoost': 0, 'GradientBoosting': 0, 'RandomForest': 0, 'XGBoost': 0}
+INFO:root:Trading decision: 0
+ERROR:root:Binance API Exception: APIError(code=-2014): API-key format invalid.
+INFO:root:Making trading decision...
+INFO:root:Predictions: {'AdaBoost': 0, 'LightGBM': 0, 'LogisticRegression': 0, 'CatBoost': 0, 'GradientBoosting': 0, 'RandomForest': 0, 'XGBoost': 0}
+INFO:root:Trading decision: 0
+ERROR:root:Binance API Exception: APIError(code=-2014): API-key format invalid.
+INFO:root:Making trading decision...
+ERROR:root:Error making decision: [Errno 2] No such file or directory: '/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/models/scaler.pkl'
+INFO:root:Making trading decision...
+ERROR:root:Error making decision: [Errno 2] No such file or directory: '/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/data.csv'

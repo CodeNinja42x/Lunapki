@@ -1,0 +1,8 @@
+2024-06-05 21:33:16,984 - INFO - Started feature engineering script
+2024-06-05 21:33:16,995 - INFO - Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/X_train.csv
+2024-06-05 21:33:16,997 - INFO - Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/X_test.csv
+2024-06-05 21:33:17,235 - INFO - Feature engineering completed and saved.
+2024-06-05 22:08:31,861 - INFO - Started feature engineering script
+2024-06-05 22:08:31,866 - INFO - Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/X_train.csv
+2024-06-05 22:08:31,868 - INFO - Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/X_test.csv
+2024-06-05 22:08:31,956 - INFO - Feature engineering completed and saved.

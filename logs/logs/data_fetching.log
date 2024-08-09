@@ -1,0 +1,6 @@
+2024-06-01 15:47:22,397 Starting new HTTPS connection (1): api.binance.com:443
+2024-06-01 15:47:22,929 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2024-06-01 15:47:23,340 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717246043002&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 15:47:23,707 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717159642997&symbol=ETHUSDT HTTP/1.1" 200 46929
+2024-06-01 15:47:24,335 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717219680000&symbol=ETHUSDT HTTP/1.1" 200 20089
+2024-06-01 15:47:24,361 Fetched data saved to fetched_data.csv

@@ -1,0 +1,10 @@
+2024-06-05 21:21:40,183 - ERROR - File not found: /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/processed_data_eth.csv
+2024-06-05 21:21:40,184 - ERROR - File not found: /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/processed_data_btc.csv
+2024-06-05 21:21:40,184 - ERROR - File not found: /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/processed_data_xrp.csv
+2024-06-05 21:21:40,185 - ERROR - File not found: /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/processed_data_doge.csv
+2024-06-05 21:21:40,185 - ERROR - One or more data files could not be loaded. Exiting.
+2024-06-05 21:25:16,762 - ERROR - File not found: /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/processed_data_eth.csv
+2024-06-05 21:25:16,766 - ERROR - File not found: /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/processed_data_btc.csv
+2024-06-05 21:25:16,767 - ERROR - File not found: /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/processed_data_xrp.csv
+2024-06-05 21:25:16,767 - ERROR - File not found: /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/processed_data_doge.csv
+2024-06-05 21:25:16,767 - ERROR - One or more data files could not be loaded. Exiting.

@@ -1,0 +1,15 @@
+2024-06-05 22:08:43,711 - INFO - Started ensemble model script
+2024-06-05 22:14:19,303 - INFO - Started ensemble model training script
+2024-06-05 22:16:07,700 - INFO - Started ensemble model training script
+2024-06-05 22:30:34,907 - INFO - Started ensemble model training script
+2024-06-06 00:55:31,936 - INFO - Started ensemble model training script
+2024-06-06 00:56:14,301 - INFO - Started ensemble model training script
+2024-06-06 00:58:26,862 - INFO - Started ensemble model training script
+2024-06-06 01:04:18,349 - INFO - Started ensemble model training script
+2024-06-06 01:09:12,958 - INFO - Started ensemble model training script
+2024-06-06 18:42:24,557 - INFO - Started ensemble model training script
+2024-06-06 21:46:35,798 - Started ensemble model training script - INFO
+2024-06-07 17:49:17,037 - Started ensemble model training script - INFO
+2024-06-07 18:48:30.535894 - Model trained and saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/ensemble_model.pkl - INFO
+2024-06-07 19:07:11.569433 - Model trained and saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/ensemble_model.pkl - INFO
+2024-06-07 19:11:17.369189 - Model trained and saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/ensemble_model.pkl - INFO

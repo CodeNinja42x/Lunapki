@@ -1,0 +1,292 @@
+2024-05-29 02:18:39,059 Error loading data from combined_data.csv: No columns to parse from file
+2024-05-29 02:48:54,288 Error loading data from combined_data.csv: No columns to parse from file
+2024-05-29 17:57:58,183 Error loading data from combined_data.csv: No columns to parse from file
+2024-05-29 17:57:58,184 Loaded data is empty.
+2024-05-29 18:01:20,120 Error loading data from combined_data.csv: No columns to parse from file
+2024-05-29 18:01:20,122 Loaded data is empty.
+2024-05-29 18:03:01,421 Error loading data from combined_data.csv: No columns to parse from file
+2024-05-29 18:03:01,422 Loaded data is empty.
+2024-05-29 18:05:50,142 Data loaded successfully from combined_data.csv
+2024-05-29 18:05:50,159 Feature engineering completed successfully
+2024-05-29 18:05:50,167 Preprocessed data saved to preprocessed_data.csv
+2024-05-29 18:16:45,979 Data loaded successfully from combined_data.csv
+2024-05-29 18:16:45,999 Feature engineering completed successfully
+2024-05-29 18:16:46,028 Preprocessed data saved to preprocessed_data.csv
+2024-05-29 18:40:23,639 Data loaded successfully from combined_data.csv
+2024-05-29 18:40:23,654 Feature engineering completed successfully
+2024-05-29 18:40:23,663 Preprocessed data saved to preprocessed_data.csv
+2024-05-29 20:49:37,948 Data loaded successfully from combined_data.csv
+2024-05-29 20:49:37,960 Feature engineering completed successfully
+2024-05-29 20:49:37,972 Preprocessed data saved to preprocessed_data.csv
+2024-05-29 21:11:14,503 Data loaded successfully from combined_data.csv
+2024-05-29 21:11:14,519 Feature engineering completed successfully
+2024-05-29 21:11:14,526 Preprocessed data saved to preprocessed_data.csv
+2024-05-29 22:40:25,255 Data loaded successfully from combined_data.csv
+2024-05-29 22:40:25,276 Feature engineering completed successfully
+2024-05-29 22:40:25,285 Preprocessed data saved to preprocessed_data.csv
+2024-05-31 17:14:10,472 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:14:10,501 Error in preprocessing data: x must have 2 complete cycles requires 60 observations. x only has 18 observation(s)
+2024-05-31 17:40:53,570 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:40:53,594 Preprocessed data saved to preprocessed_data.csv
+2024-05-31 17:48:59,912 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:48:59,920 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 17:49:59,926 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:49:59,933 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 17:50:59,935 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:50:59,940 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 17:51:59,951 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:51:59,957 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 17:52:59,962 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:52:59,967 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 17:53:59,972 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:53:59,977 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 17:54:59,982 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:54:59,989 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 17:55:59,993 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:55:59,997 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 17:57:00,005 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:57:00,010 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 17:58:00,014 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 17:58:00,018 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:46:18,642 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:46:18,643 Not enough data to process. Need at least 60 observations.
+2024-05-31 18:47:18,649 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:47:18,658 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:48:18,663 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:48:18,668 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:49:18,675 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:49:18,681 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:50:18,686 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:50:18,690 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:51:18,695 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:51:18,702 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:52:18,712 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:52:18,717 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:53:18,726 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:53:18,731 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:54:18,778 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:54:18,807 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:55:18,815 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:55:18,823 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:56:18,833 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:56:18,838 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:57:18,842 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:57:18,848 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:58:18,854 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:58:18,859 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 18:59:18,864 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 18:59:18,874 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:00:18,881 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:00:18,902 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:01:18,909 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:01:18,918 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:02:18,923 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:02:18,937 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:03:18,952 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:03:18,960 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:04:18,967 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:04:18,976 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:05:18,985 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:05:18,989 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:06:18,999 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:06:19,006 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:07:19,013 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:07:19,018 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:08:19,032 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:08:19,039 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:09:19,050 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:09:19,056 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:10:19,065 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:10:19,071 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:11:19,079 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:11:19,085 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:12:19,095 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:12:19,100 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:13:19,114 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:13:19,121 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:14:19,130 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:14:19,135 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:15:19,144 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:15:19,149 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:16:19,152 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:16:19,164 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:17:19,169 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:17:19,180 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:18:19,185 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:18:19,192 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:19:19,195 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:19:19,201 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:20:19,208 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:20:19,214 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:21:19,222 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:21:19,228 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:22:19,234 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:22:19,241 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:23:19,247 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:23:19,252 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:24:19,258 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:24:19,265 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:25:19,271 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:25:19,276 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 19:26:19,257 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 19:26:19,265 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 20:08:59,745 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 20:08:59,749 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 20:09:59,754 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 20:09:59,763 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 20:17:02,813 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 20:17:02,814 Error in preprocessing data: 'Date'
+2024-05-31 22:16:46,796 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 22:16:46,807 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-05-31 22:47:39,583 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-05-31 22:47:39,588 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 14:11:59,219 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/data/fetched_data.csv
+2024-06-01 14:11:59,244 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 14:56:15,658 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 14:56:15,667 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 14:59:51,284 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 14:59:51,293 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:00:39,044 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:00:39,051 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:01:30,371 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:01:30,376 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:01:47,370 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:01:47,375 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:03:20,163 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:03:20,174 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:05:06,072 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:05:06,083 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:07:13,600 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:07:13,604 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:08:47,323 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:08:47,328 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:10:36,957 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:10:36,993 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:10:54,792 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:10:54,799 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:15:51,326 Starting preprocessing for data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:15:51,326 Attempting to load data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:15:51,329 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:15:51,332 Data columns after setting 'Open time' as index: Index(['Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+2024-06-01 15:15:51,336 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:16:07,237 Starting preprocessing for data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:16:07,237 Attempting to load data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:16:07,239 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:16:07,243 Data columns after setting 'Open time' as index: Index(['Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+2024-06-01 15:16:07,246 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:18:00,029 Starting preprocessing for data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:18:00,030 Attempting to load data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:18:00,032 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:18:00,034 Data columns after setting 'Open time' as index: Index(['Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+2024-06-01 15:18:00,039 Error in preprocessing data: "['HA_Open', 'HA_Close'] not in index"
+2024-06-01 15:19:38,101 Starting preprocessing for data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:19:38,101 Attempting to load data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:19:38,111 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:19:38,111 Error in preprocessing data: 'Open time'
+2024-06-01 15:31:01,991 Starting preprocessing for data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:31:01,991 Attempting to load data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:31:01,998 Data loaded successfully from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:31:01,998 Error in preprocessing data: 'Open time'
+2024-06-01 15:51:34,593 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 15:51:34,689 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 16:04:09,635 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 16:04:09,648 Scaler saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/scaler.pkl
+2024-06-01 16:04:09,648 Data preprocessing completed successfully.
+2024-06-01 16:07:28,633 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 16:07:28,641 Scaler saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/scaler.pkl
+2024-06-01 16:07:28,641 Data preprocessing completed successfully.
+2024-06-01 16:14:00,587 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 16:14:00,597 Scaler saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/scaler.pkl
+2024-06-01 16:14:00,597 Data preprocessing completed successfully.
+2024-06-01 16:34:02,614 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 16:34:02,623 Scaler saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/scaler.pkl
+2024-06-01 16:34:02,623 Data preprocessing completed successfully.
+2024-06-01 16:39:37,711 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 16:39:37,719 Scaler saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/scaler.pkl
+2024-06-01 16:39:37,720 Data preprocessing completed successfully.
+2024-06-01 17:01:29,067 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 17:04:58,227 Loaded fetched data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:04:58,307 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 17:06:49,678 Loaded fetched data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:06:49,748 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 17:10:04,428 Loaded fetched data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:10:04,494 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 17:15:04,775 Loaded fetched data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:15:04,846 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 17:20:41,781 Loaded fetched data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:20:41,866 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 17:30:35,008 Loaded fetched data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:30:35,072 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 17:34:12,644 Loaded fetched data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:34:12,869 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 17:45:06,702 Loaded fetched data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:45:06,778 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 18:00:23,816 Loaded data from fetched_data.csv
+2024-06-01 18:00:23,819 Error in feature engineering: unsupported operand type(s) for -: 'str' and 'str'
+2024-06-01 18:00:23,827 Preprocessed data saved to preprocessed_data.csv
+2024-06-01 18:09:36,659 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 18:09:36,665 Error converting data types: Unknown datetime string format, unable to parse: Open time, at position 0
+2024-06-01 18:11:34,591 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 18:11:34,596 Error converting data types: Unknown datetime string format, unable to parse: Open time, at position 0
+2024-06-01 18:13:49,130 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 18:13:49,136 Converted data types successfully
+2024-06-01 18:13:49,151 Feature engineering completed successfully
+2024-06-01 18:13:49,213 Preprocessed data saved to preprocessed_data.csv
+2024-06-01 18:16:41,451 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 18:16:41,456 Converted data types successfully
+2024-06-01 18:16:41,469 Feature engineering completed successfully
+2024-06-01 18:16:41,520 Preprocessed data saved to preprocessed_data.csv
+2024-06-01 18:54:59,050 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 18:54:59,054 Converted 'Open time' to datetime
+2024-06-01 18:54:59,071 Feature engineering completed successfully
+2024-06-01 18:54:59,163 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 18:57:48,907 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 18:57:48,913 Converted 'Open time' to datetime
+2024-06-01 18:57:48,920 Converted columns to numeric
+2024-06-01 18:57:48,968 Feature engineering completed successfully
+2024-06-01 18:57:49,076 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 19:14:31,772 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 19:14:31,778 Converted 'Open time' to datetime
+2024-06-01 19:14:31,783 Converted columns to numeric
+2024-06-01 19:14:31,799 Feature engineering completed successfully
+2024-06-01 19:14:31,886 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 19:25:30,352 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 19:25:30,359 Converted 'Open time' to datetime
+2024-06-01 19:25:30,365 Converted columns to numeric
+2024-06-01 19:25:30,388 Feature engineering completed successfully
+2024-06-01 19:25:30,555 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-01 19:51:08,454 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 19:51:08,488 Converted 'Open time' to datetime
+2024-06-01 19:51:08,496 Converted columns to numeric
+2024-06-01 19:51:08,541 Feature engineering completed successfully
+2024-06-01 19:51:08,677 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-02 00:20:17,129 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-02 00:20:17,147 Converted 'Open time' to datetime
+2024-06-02 00:20:17,151 Converted columns to numeric
+2024-06-02 00:20:17,200 Feature engineering completed successfully
+2024-06-02 00:20:17,388 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-02 02:05:32,394 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-02 02:05:32,399 Converted 'Open time' to datetime
+2024-06-02 02:05:32,404 Converted columns to numeric
+2024-06-02 02:05:32,419 Feature engineering completed successfully
+2024-06-02 02:05:32,492 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-02 02:37:05,047 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-02 02:37:05,076 Converted 'Open time' to datetime
+2024-06-02 02:37:05,205 Converted columns to numeric
+2024-06-02 02:37:05,415 Feature engineering completed successfully
+2024-06-02 02:37:05,943 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-02 02:40:04,966 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-02 02:40:04,976 Converted 'Open time' to datetime
+2024-06-02 02:40:04,988 Converted columns to numeric
+2024-06-02 02:40:05,008 Feature engineering completed successfully
+2024-06-02 02:40:05,079 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-02 05:43:28,506 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-02 05:43:28,573 Converted 'Open time' to datetime
+2024-06-02 05:43:28,588 Converted columns to numeric
+2024-06-02 05:43:28,618 Feature engineering completed successfully
+2024-06-02 05:43:28,727 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv
+2024-06-02 07:15:36,313 Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-02 07:15:36,324 Converted 'Open time' to datetime
+2024-06-02 07:15:36,331 Converted columns to numeric
+2024-06-02 07:15:36,370 Feature engineering completed successfully
+2024-06-02 07:15:36,456 Preprocessed data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/preprocessed_data.csv

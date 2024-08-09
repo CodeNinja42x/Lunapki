@@ -1,0 +1,129 @@
+2024-06-01 16:00:51,139 Starting new HTTPS connection (1): api.binance.com:443
+2024-06-01 16:00:51,868 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2024-06-01 16:00:52,434 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717246852039&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 16:00:52,765 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717160452033&symbol=ETHUSDT HTTP/1.1" 200 46888
+2024-06-01 16:00:53,313 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717220460000&symbol=ETHUSDT HTTP/1.1" 200 20079
+2024-06-01 16:00:53,340 Fetched historical data:                         Open     High      Low    Close    Volume
+Open time                                                        
+2024-05-31 13:01:00  3825.85  3828.00  3825.84  3828.00  129.0228
+2024-05-31 13:02:00  3827.99  3830.58  3827.99  3830.10  344.3350
+2024-05-31 13:03:00  3830.09  3830.97  3828.82  3829.60  218.0453
+2024-05-31 13:04:00  3829.59  3832.32  3829.59  3831.41  174.7976
+2024-05-31 13:05:00  3831.28  3831.85  3827.28  3827.29  180.3598
+2024-06-01 16:00:53,358 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 16:13:47,043 Starting new HTTPS connection (1): api.binance.com:443
+2024-06-01 16:13:47,667 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2024-06-01 16:13:48,389 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717247627726&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 16:13:49,233 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717161227723&symbol=ETHUSDT HTTP/1.1" 200 46877
+2024-06-01 16:13:49,612 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717221240000&symbol=ETHUSDT HTTP/1.1" 200 20073
+2024-06-01 16:13:49,665 Fetched historical data:                         Open     High      Low    Close    Volume
+Open time                                                        
+2024-05-31 13:14:00  3818.76  3821.95  3818.75  3821.95  197.7225
+2024-05-31 13:15:00  3821.95  3821.95  3819.00  3819.01  129.6091
+2024-05-31 13:16:00  3819.01  3819.01  3808.60  3809.08  776.1091
+2024-05-31 13:17:00  3809.08  3809.84  3805.41  3809.00  661.4995
+2024-05-31 13:18:00  3809.00  3814.39  3808.99  3813.79  184.2813
+2024-06-01 16:13:49,705 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 16:33:06,505 Starting new HTTPS connection (1): api.binance.com:443
+2024-06-01 16:33:22,318 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2024-06-01 16:33:24,118 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717248802405&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 16:33:24,824 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717162402402&symbol=ETHUSDT HTTP/1.1" 200 46835
+2024-06-01 16:33:34,173 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717222440000&symbol=ETHUSDT HTTP/1.1" 200 20081
+2024-06-01 16:33:34,204 Fetched historical data:                         Open     High      Low    Close     Volume
+Open time                                                         
+2024-05-31 13:34:00  3787.77  3790.39  3784.46  3788.05  1041.2225
+2024-05-31 13:35:00  3788.04  3796.78  3787.38  3795.81   394.5671
+2024-05-31 13:36:00  3795.81  3799.41  3795.80  3798.18   373.2141
+2024-05-31 13:37:00  3798.17  3799.73  3797.60  3799.73   158.8503
+2024-05-31 13:38:00  3799.72  3801.30  3796.43  3797.00   720.7096
+2024-06-01 16:33:34,227 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 16:38:56,434 Starting new HTTPS connection (1): api.binance.com:443
+2024-06-01 16:38:59,889 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2024-06-01 16:39:01,269 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717249139963&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 16:39:09,868 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717162739959&symbol=ETHUSDT HTTP/1.1" 200 46810
+2024-06-01 16:39:11,717 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717222740000&symbol=ETHUSDT HTTP/1.1" 200 20123
+2024-06-01 16:39:12,101 Fetched historical data:                         Open     High      Low    Close    Volume
+Open time                                                        
+2024-05-31 13:39:00  3797.00  3800.92  3795.30  3799.11  723.2177
+2024-05-31 13:40:00  3799.11  3805.61  3799.11  3803.38  335.1270
+2024-05-31 13:41:00  3803.38  3803.46  3796.00  3798.04  211.9307
+2024-05-31 13:42:00  3798.04  3800.88  3797.26  3800.47  199.2321
+2024-05-31 13:43:00  3800.47  3804.86  3800.47  3804.09  256.4019
+2024-06-01 16:39:12,120 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 16:39:50,610 Starting new HTTPS connection (1): api.binance.com:443
+2024-06-01 16:41:06,762 Starting new HTTPS connection (1): api.binance.com:443
+2024-06-01 16:41:12,573 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2024-06-01 16:41:21,109 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717249272641&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 16:41:31,112 Error fetching historical data: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=10)
+2024-06-01 17:01:07,078 Starting new HTTPS connection (1): api.binance.com:443
+2024-06-01 17:01:07,495 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2024-06-01 17:01:07,904 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717250467564&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 17:01:08,315 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717164067561&symbol=ETHUSDT HTTP/1.1" 200 46707
+2024-06-01 17:01:08,668 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717224120000&symbol=ETHUSDT HTTP/1.1" 200 20099
+2024-06-01 17:01:08,723 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:09:51,453 Starting new HTTPS connection (1): api.binance.com:443
+2024-06-01 17:09:51,880 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2024-06-01 17:09:52,299 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717250991957&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 17:09:52,708 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717164591953&symbol=ETHUSDT HTTP/1.1" 200 46686
+2024-06-01 17:09:53,516 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717224600000&symbol=ETHUSDT HTTP/1.1" 200 20089
+2024-06-01 17:09:53,558 Fetched data:                Open time    Open    High      Low    Close  Volume
+1439 2024-06-01 14:09:00  3804.5  3804.5  3804.49  3804.49  8.5395
+2024-06-01 17:14:59,532 Starting new HTTPS connection (1): api.binance.com:443
+2024-06-01 17:15:00,436 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2024-06-01 17:15:00,845 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717251300517&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 17:15:01,255 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717164900514&symbol=ETHUSDT HTTP/1.1" 200 46671
+2024-06-01 17:15:02,176 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717224960000&symbol=ETHUSDT HTTP/1.1" 200 20053
+2024-06-01 17:15:02,212 Fetched data:                Open time     Open     High     Low    Close  Volume
+1439 2024-06-01 14:15:00  3801.01  3801.01  3801.0  3801.01  0.0466
+2024-06-01 17:20:33,093 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717251632794&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 17:20:33,443 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717165232791&symbol=ETHUSDT HTTP/1.1" 200 46656
+2024-06-01 17:20:34,570 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717225260000&symbol=ETHUSDT HTTP/1.1" 200 20047
+2024-06-01 17:20:34,596 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:23:59,269 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717251838887&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 17:23:59,679 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717165438884&symbol=ETHUSDT HTTP/1.1" 200 46656
+2024-06-01 17:24:00,089 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717225440000&symbol=ETHUSDT HTTP/1.1" 200 20051
+2024-06-01 17:24:00,114 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:30:27,824 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717252227524&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 17:30:28,188 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717165827520&symbol=ETHUSDT HTTP/1.1" 200 46619
+2024-06-01 17:30:28,569 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717225860000&symbol=ETHUSDT HTTP/1.1" 200 20055
+2024-06-01 17:30:28,600 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:33:59,071 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717252438745&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 17:33:59,390 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717166038739&symbol=ETHUSDT HTTP/1.1" 200 46586
+2024-06-01 17:33:59,787 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717226040000&symbol=ETHUSDT HTTP/1.1" 200 20063
+2024-06-01 17:33:59,819 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:44:53,812 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717253093491&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 17:44:54,222 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717166693485&symbol=ETHUSDT HTTP/1.1" 200 46528
+2024-06-01 17:44:54,631 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717226700000&symbol=ETHUSDT HTTP/1.1" 200 20094
+2024-06-01 17:44:54,655 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 17:45:48,187 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717253147854&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 17:45:49,313 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717166747850&symbol=ETHUSDT HTTP/1.1" 200 46516
+2024-06-01 17:45:50,132 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717226760000&symbol=ETHUSDT HTTP/1.1" 200 20104
+2024-06-01 17:45:50,156 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 18:00:14,585 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717254014239&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 18:00:14,909 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717167614236&symbol=ETHUSDT HTTP/1.1" 200 46457
+2024-06-01 18:00:15,299 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717227660000&symbol=ETHUSDT HTTP/1.1" 200 20096
+2024-06-01 18:00:15,326 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 18:09:19,040 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717254558686&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 18:09:19,355 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717168158681&symbol=ETHUSDT HTTP/1.1" 200 46418
+2024-06-01 18:09:20,064 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717228200000&symbol=ETHUSDT HTTP/1.1" 200 20136
+2024-06-01 18:09:20,096 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 18:54:48,475 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717257288176&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 18:54:48,795 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717170888174&symbol=ETHUSDT HTTP/1.1" 200 46235
+2024-06-01 18:54:49,197 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717230900000&symbol=ETHUSDT HTTP/1.1" 200 20192
+2024-06-01 18:54:49,227 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 18:57:41,811 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717257461508&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 18:57:42,136 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717171061504&symbol=ETHUSDT HTTP/1.1" 200 46227
+2024-06-01 18:57:42,482 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717231080000&symbol=ETHUSDT HTTP/1.1" 200 20191
+2024-06-01 18:57:42,515 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 19:14:23,051 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717258462749&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 19:14:23,369 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717172062745&symbol=ETHUSDT HTTP/1.1" 200 46206
+2024-06-01 19:14:23,972 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717232100000&symbol=ETHUSDT HTTP/1.1" 200 20128
+2024-06-01 19:14:24,021 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 19:25:24,757 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717259124419&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 19:25:25,186 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717172724415&symbol=ETHUSDT HTTP/1.1" 200 46215
+2024-06-01 19:25:25,541 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717232760000&symbol=ETHUSDT HTTP/1.1" 200 20099
+2024-06-01 19:25:25,578 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv
+2024-06-01 19:50:58,100 https://api.binance.com:443 "GET /api/v3/klines?endTime=1717260657805&interval=1m&limit=1&startTime=0&symbol=ETHUSDT HTTP/1.1" 200 153
+2024-06-01 19:50:58,422 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717174257800&symbol=ETHUSDT HTTP/1.1" 200 46166
+2024-06-01 19:50:58,985 https://api.binance.com:443 "GET /api/v3/klines?interval=1m&limit=1000&startTime=1717234260000&symbol=ETHUSDT HTTP/1.1" 200 20070
+2024-06-01 19:50:59,016 Data saved to /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/Bot_Logs/fetches/fetched_data.csv

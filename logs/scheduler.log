@@ -1,0 +1,98 @@
+INFO:root:2024-06-02 00:00:00.162366: Starting train_models script
+INFO:root:2024-06-02 00:00:00.278777: Completed train_models script
+INFO:root:2024-06-02 00:32:35.569416: Starting fetch_data script
+INFO:root:2024-06-02 00:32:35.630968: Completed fetch_data script
+INFO:root:2024-06-02 00:32:35.631355: Starting trade script
+INFO:root:2024-06-02 00:32:35.665159: Completed trade script
+INFO:root:2024-06-02 00:32:35.665406: Starting main_script
+INFO:root:2024-06-02 00:32:35.701078: Completed main_script
+INFO:root:2024-06-02 00:38:02.484989: Starting main_script
+INFO:root:2024-06-02 00:38:02.532343: Completed main_script
+INFO:root:2024-06-02 01:32:36.477140: Starting fetch_data script
+INFO:root:2024-06-02 01:32:36.531079: Completed fetch_data script
+INFO:root:2024-06-02 01:32:36.531374: Starting trade script
+INFO:root:2024-06-02 01:32:36.567959: Completed trade script
+INFO:root:2024-06-02 01:32:36.568113: Starting main_script
+INFO:root:2024-06-02 01:32:36.602113: Completed main_script
+INFO:root:2024-06-02 01:38:02.744911: Starting main_script
+INFO:root:2024-06-02 01:38:02.805499: Completed main_script
+INFO:root:2024-06-02 02:32:36.854431: Starting fetch_data script
+INFO:root:2024-06-02 02:32:36.911545: Completed fetch_data script
+INFO:root:2024-06-02 02:32:36.911901: Starting trade script
+INFO:root:2024-06-02 02:32:36.964756: Completed trade script
+INFO:root:2024-06-02 02:32:36.965080: Starting main_script
+INFO:root:2024-06-02 02:32:37.034334: Completed main_script
+INFO:root:2024-06-02 02:38:03.552238: Starting main_script
+INFO:root:2024-06-02 02:38:03.628598: Completed main_script
+INFO:root:2024-06-02 03:32:37.219167: Starting fetch_data script
+INFO:root:2024-06-02 03:32:37.305330: Completed fetch_data script
+INFO:root:2024-06-02 03:32:37.305582: Starting trade script
+INFO:root:2024-06-02 03:32:37.349853: Completed trade script
+INFO:root:2024-06-02 03:32:37.350157: Starting main_script
+INFO:root:2024-06-02 03:32:37.392889: Completed main_script
+INFO:root:2024-06-02 03:38:04.506286: Starting main_script
+INFO:root:2024-06-02 03:38:04.732400: Completed main_script
+INFO:root:2024-06-02 04:32:37.753572: Starting fetch_data script
+INFO:root:2024-06-02 04:32:37.794650: Completed fetch_data script
+INFO:root:2024-06-02 04:32:37.794839: Starting trade script
+INFO:root:2024-06-02 04:32:37.827810: Completed trade script
+INFO:root:2024-06-02 04:32:37.827969: Starting main_script
+INFO:root:2024-06-02 04:32:37.862194: Completed main_script
+INFO:root:2024-06-02 04:38:05.368677: Starting main_script
+INFO:root:2024-06-02 04:38:05.410622: Completed main_script
+INFO:root:2024-06-02 05:32:38.179027: Starting fetch_data script
+INFO:root:2024-06-02 05:32:38.214989: Completed fetch_data script
+INFO:root:2024-06-02 05:32:38.215174: Starting trade script
+INFO:root:2024-06-02 05:32:38.249815: Completed trade script
+INFO:root:2024-06-02 05:32:38.249997: Starting main_script
+INFO:root:2024-06-02 05:32:38.287170: Completed main_script
+INFO:root:2024-06-02 05:38:05.787022: Starting main_script
+INFO:root:2024-06-02 05:38:05.829076: Completed main_script
+INFO:root:2024-06-02 06:32:38.728932: Starting fetch_data script
+INFO:root:2024-06-02 06:32:38.778891: Completed fetch_data script
+INFO:root:2024-06-02 06:32:38.779278: Starting trade script
+INFO:root:2024-06-02 06:32:38.818644: Completed trade script
+INFO:root:2024-06-02 06:32:38.818819: Starting main_script
+INFO:root:2024-06-02 06:32:38.855557: Completed main_script
+INFO:root:2024-06-02 06:38:06.136234: Starting main_script
+INFO:root:2024-06-02 06:38:06.202625: Completed main_script
+INFO:root:2024-06-02 07:32:39.623466: Starting fetch_data script
+INFO:root:2024-06-02 07:32:39.691396: Completed fetch_data script
+INFO:root:2024-06-02 07:32:39.691686: Starting trade script
+INFO:root:2024-06-02 07:32:39.727329: Completed trade script
+INFO:root:2024-06-02 07:32:39.727538: Starting main_script
+INFO:root:2024-06-02 07:32:39.764100: Completed main_script
+INFO:root:2024-06-02 07:38:06.889990: Starting main_script
+INFO:root:2024-06-02 07:38:06.960520: Completed main_script
+INFO:root:2024-06-02 08:32:40.494095: Starting fetch_data script
+INFO:root:2024-06-02 08:32:40.570124: Completed fetch_data script
+INFO:root:2024-06-02 08:32:40.570400: Starting trade script
+INFO:root:2024-06-02 08:32:40.607453: Completed trade script
+INFO:root:2024-06-02 08:32:40.607681: Starting main_script
+INFO:root:2024-06-02 08:32:40.644859: Completed main_script
+INFO:root:2024-06-02 08:38:07.756251: Starting main_script
+INFO:root:2024-06-02 08:38:07.823604: Completed main_script
+INFO:root:2024-06-02 09:32:41.145682: Starting fetch_data script
+INFO:root:2024-06-02 09:32:41.300724: Completed fetch_data script
+INFO:root:2024-06-02 09:32:41.302354: Starting trade script
+INFO:root:2024-06-02 09:32:41.369916: Completed trade script
+INFO:root:2024-06-02 09:32:41.370115: Starting main_script
+INFO:root:2024-06-02 09:32:41.620920: Completed main_script
+INFO:root:2024-06-02 09:38:08.495457: Starting main_script
+INFO:root:2024-06-02 09:38:08.554131: Completed main_script
+INFO:root:2024-06-02 10:32:42.017378: Starting fetch_data script
+INFO:root:2024-06-02 10:32:42.089514: Completed fetch_data script
+INFO:root:2024-06-02 10:32:42.089823: Starting trade script
+INFO:root:2024-06-02 10:32:42.140409: Completed trade script
+INFO:root:2024-06-02 10:32:42.140663: Starting main_script
+INFO:root:2024-06-02 10:32:42.190540: Completed main_script
+INFO:root:2024-06-02 10:38:09.112868: Starting main_script
+INFO:root:2024-06-02 10:38:09.198358: Completed main_script
+INFO:root:2024-06-02 11:32:42.464306: Starting fetch_data script
+INFO:root:2024-06-02 11:32:42.523075: Completed fetch_data script
+INFO:root:2024-06-02 11:32:42.523975: Starting trade script
+INFO:root:2024-06-02 11:32:42.562235: Completed trade script
+INFO:root:2024-06-02 11:32:42.562430: Starting main_script
+INFO:root:2024-06-02 11:32:42.597362: Completed main_script
+INFO:root:2024-06-02 11:38:10.140403: Starting main_script
+INFO:root:2024-06-02 11:38:10.209384: Completed main_script

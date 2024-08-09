@@ -1,0 +1,126 @@
+2024-06-01 20:34:37,181:INFO:Starting main process.
+2024-06-01 20:34:37,181:INFO:Fetching latest data from Binance.
+2024-06-01 20:35:03,017:INFO:Data collection complete.
+2024-06-01 20:35:03,034:INFO:Training models.
+2024-06-01 20:35:03,138:INFO:Creating target column.
+2024-06-01 20:35:03,167:INFO:Target column created.
+2024-06-01 20:35:43,723:INFO:RandomForest model training complete.
+2024-06-01 20:35:43,724:INFO:Accuracy: 0.5054284282612327, Precision: 0.5048543689320388, Recall: 0.5215646940822467, F1 Score: 0.5130735076467686
+2024-06-01 20:36:12,906:INFO:GradientBoosting model training complete.
+2024-06-01 20:36:12,907:INFO:Accuracy: 0.49540671454818774, Precision: 0.49624624624624625, Recall: 0.6629889669007021, F1 Score: 0.5676255903821382
+2024-06-01 20:36:22,145:INFO:AdaBoost model training complete.
+2024-06-01 20:36:22,145:INFO:Accuracy: 0.5064305996325371, Precision: 0.5045431600201918, Recall: 0.6683383483784687, F1 Score: 0.5750035955702575
+2024-06-01 20:36:23,400:INFO:CatBoost model training complete.
+2024-06-01 20:36:23,400:INFO:Accuracy: 0.5126106564222482, Precision: 0.5110975980541198, Recall: 0.562019391507857, F1 Score: 0.5353503184713376
+2024-06-01 20:36:24,047:INFO:XGBoost model training complete.
+2024-06-01 20:36:24,048:INFO:Accuracy: 0.5154501419742776, Precision: 0.5139925373134329, Recall: 0.5526579739217653, F1 Score: 0.5326244562590623
+2024-06-01 20:36:24,645:INFO:LightGBM model training complete.
+2024-06-01 20:36:24,645:INFO:Accuracy: 0.50409219976616, Precision: 0.5033414337788579, Recall: 0.5539953192912069, F1 Score: 0.5274550374025148
+2024-06-01 20:36:24,895:INFO:LogisticRegression model training complete.
+2024-06-01 20:36:24,895:INFO:Accuracy: 0.5214631702021045, Precision: 0.5149289099526067, Recall: 0.7265128719491809, F1 Score: 0.6026903342116211
+2024-06-01 20:36:24,897:INFO:Model training complete and scaler saved.
+2024-06-01 20:36:24,919:INFO:Making predictions.
+2024-06-01 20:36:25,939:INFO:Predictions: {'RandomForest': 1, 'GradientBoosting': 1, 'AdaBoost': 1, 'CatBoost': 1, 'XGBoost': 1, 'LightGBM': 1, 'LogisticRegression': 0}
+2024-06-01 20:36:25,979:INFO:Making trading decision.
+2024-06-01 20:36:25,980:INFO:Trading decision: buy
+2024-06-01 20:36:26,790:ERROR:Binance API Exception: Account has insufficient balance for requested action.
+2024-06-01 20:36:26,790:INFO:Main process complete.
+2024-06-01 21:34:20,703:INFO:Starting the trading bot...
+2024-06-01 21:34:22,396:INFO:RandomForest model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:34:56,980:INFO:Starting the trading bot...
+2024-06-01 21:34:59,086:INFO:RandomForest model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:42:03,657:INFO:Starting the trading bot...
+2024-06-01 21:42:05,735:INFO:RandomForest model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:42:06,081:INFO:GradientBoosting model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:42:06,110:INFO:AdaBoost model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:42:09,452:INFO:CatBoost model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:42:09,592:INFO:XGBoost model training complete. Accuracy: 0.9932885906040269, Precision: 1.0, Recall: 0.9863013698630136, F1 Score: 0.993103448275862
+2024-06-01 21:42:10,213:INFO:LightGBM model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:42:10,272:INFO:LogisticRegression model training complete. Accuracy: 0.9932885906040269, Precision: 1.0, Recall: 0.9863013698630136, F1 Score: 0.993103448275862
+2024-06-01 21:42:11,074:INFO:RandomForest model prediction: 0
+2024-06-01 21:42:11,075:INFO:GradientBoosting model prediction: 0
+2024-06-01 21:42:11,076:INFO:AdaBoost model prediction: 0
+2024-06-01 21:42:11,077:INFO:CatBoost model prediction: 0
+2024-06-01 21:42:11,078:INFO:XGBoost model prediction: 0
+2024-06-01 21:42:11,079:INFO:LightGBM model prediction: 0
+2024-06-01 21:42:11,080:INFO:LogisticRegression model prediction: 0
+2024-06-01 21:42:11,081:INFO:Trading decision: sell
+2024-06-01 21:42:11,380:ERROR:Binance API Exception: APIError(code=-2010): Account has insufficient balance for requested action.
+2024-06-01 21:42:11,380:INFO:Trading bot execution complete.
+2024-06-01 21:49:25,320:INFO:Starting the trading bot...
+2024-06-01 21:49:26,975:INFO:RandomForest model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:49:27,382:INFO:GradientBoosting model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:49:27,416:INFO:AdaBoost model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:49:31,289:INFO:CatBoost model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:49:31,398:INFO:XGBoost model training complete. Accuracy: 0.9932885906040269, Precision: 1.0, Recall: 0.9863013698630136, F1 Score: 0.993103448275862
+2024-06-01 21:49:31,585:INFO:LightGBM model training complete. Accuracy: 0.9932885906040269, Precision: 0.9864864864864865, Recall: 1.0, F1 Score: 0.9931972789115646
+2024-06-01 21:49:31,628:INFO:LogisticRegression model training complete. Accuracy: 0.9932885906040269, Precision: 1.0, Recall: 0.9863013698630136, F1 Score: 0.993103448275862
+2024-06-01 21:49:32,439:INFO:RandomForest model prediction: 0
+2024-06-01 21:49:32,440:INFO:GradientBoosting model prediction: 0
+2024-06-01 21:49:32,441:INFO:AdaBoost model prediction: 0
+2024-06-01 21:49:32,442:INFO:CatBoost model prediction: 0
+2024-06-01 21:49:32,443:INFO:XGBoost model prediction: 0
+2024-06-01 21:49:32,446:INFO:LightGBM model prediction: 0
+2024-06-01 21:49:32,446:INFO:LogisticRegression model prediction: 0
+2024-06-01 21:49:32,449:INFO:Trading decision: sell
+2024-06-01 21:49:32,748:ERROR:Binance API Exception: APIError(code=-2010): Account has insufficient balance for requested action.
+2024-06-01 21:49:32,748:INFO:Trading bot execution complete.
+2024-06-01 22:13:28,176:INFO:Starting the trading bot...
+2024-06-01 22:13:29,359:INFO:RandomForest model training complete. Accuracy: 0.9932885906040269, Precision: 1.0, Recall: 0.9875, F1 Score: 0.9937106918238994
+2024-06-01 22:13:29,709:INFO:GradientBoosting model training complete. Accuracy: 1.0, Precision: 1.0, Recall: 1.0, F1 Score: 1.0
+2024-06-01 22:13:29,735:INFO:AdaBoost model training complete. Accuracy: 1.0, Precision: 1.0, Recall: 1.0, F1 Score: 1.0
+2024-06-01 22:13:33,091:INFO:CatBoost model training complete. Accuracy: 1.0, Precision: 1.0, Recall: 1.0, F1 Score: 1.0
+2024-06-01 22:13:33,198:INFO:XGBoost model training complete. Accuracy: 1.0, Precision: 1.0, Recall: 1.0, F1 Score: 1.0
+2024-06-01 22:13:33,775:INFO:LightGBM model training complete. Accuracy: 1.0, Precision: 1.0, Recall: 1.0, F1 Score: 1.0
+2024-06-01 22:13:33,817:INFO:LogisticRegression model training complete. Accuracy: 0.9865771812080537, Precision: 1.0, Recall: 0.975, F1 Score: 0.9873417721518988
+2024-06-01 22:13:34,559:INFO:RandomForest model prediction: 0
+2024-06-01 22:13:34,560:INFO:GradientBoosting model prediction: 0
+2024-06-01 22:13:34,561:INFO:AdaBoost model prediction: 0
+2024-06-01 22:13:34,562:INFO:CatBoost model prediction: 0
+2024-06-01 22:13:34,563:INFO:XGBoost model prediction: 0
+2024-06-01 22:13:34,565:INFO:LightGBM model prediction: 0
+2024-06-01 22:13:34,565:INFO:LogisticRegression model prediction: 0
+2024-06-01 22:13:34,567:INFO:Trading decision: sell
+2024-06-01 22:13:34,941:ERROR:Binance API Exception: APIError(code=-2010): Account has insufficient balance for requested action.
+2024-06-01 22:13:34,941:INFO:Trading bot execution complete.
+INFO:root:Starting data collection...
+INFO:root:Data collection complete.
+INFO:root:Starting model training...
+INFO:root:Starting data collection...
+INFO:root:Data collection complete.
+INFO:root:Starting model training...
+ERROR:root:Data file not found.
+INFO:root:Making trading decision...
+INFO:root:Starting data collection...
+ERROR:root:Error during data collection: Cannot save file into a non-existent directory: '/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data'
+INFO:root:Starting model training...
+ERROR:root:Data file not found.
+INFO:root:Making trading decision...
+ERROR:root:Data file not found.
+INFO:root:Starting data collection...
+INFO:root:Data collection complete.
+INFO:root:Starting model training...
+INFO:root:RandomForest model training complete.
+INFO:root:GradientBoosting model training complete.
+INFO:root:AdaBoost model training complete.
+INFO:root:CatBoost model training complete.
+INFO:root:XGBoost model training complete.
+INFO:root:LightGBM model training complete.
+INFO:root:LogisticRegression model training complete.
+INFO:root:Making trading decision...
+ERROR:root:Error making decision: 'dict_values' object has no attribute 'count'
+INFO:root:Starting data collection...
+INFO:root:Data collection complete.
+INFO:root:Starting model training...
+INFO:root:RandomForest model training complete.
+INFO:root:GradientBoosting model training complete.
+INFO:root:AdaBoost model training complete.
+INFO:root:CatBoost model training complete.
+INFO:root:XGBoost model training complete.
+INFO:root:LightGBM model training complete.
+INFO:root:LogisticRegression model training complete.
+INFO:root:Making trading decision...
+INFO:root:Predictions: {'RandomForest': 0, 'GradientBoosting': 0, 'AdaBoost': 0, 'CatBoost': 0, 'XGBoost': 0, 'LightGBM': 0, 'LogisticRegression': 0}
+INFO:root:Trading decision: 0
+INFO:root:Placing sell order...
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
