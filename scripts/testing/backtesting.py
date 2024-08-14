@@ -1,28 +1,28 @@
 import pandas as pd
+import backtesting  # Replace this with your actual backtesting library import
 
-# Paths to your data
-engineered_data_path = 'data/engineered_data/your_engineered_data.csv'
-backtest_results_path = 'data/results/backtest_results.csv'
-model_save_path = 'models/trained_models/xgb_model.pkl'
+# Load the processed data
+data = pd.read_csv('/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/processed_data/processed_data_with_features.csv')
 
-# Load engineered data
-data = pd.read_csv(engineered_data_path)
+# Implement your backtesting logic here
+# This is just a placeholder. Replace with actual backtesting logic.
+def backtest_strategy(data):
+    # Example logic for backtesting (to be replaced with your actual strategy)
+    results = []
+    for index, row in data.iterrows():
+        # Example: Buy when RSI < 30 and sell when RSI > 70
+        if row['RSI'] < 30:
+            results.append("Buy")
+        elif row['RSI'] > 70:
+            results.append("Sell")
+        else:
+            results.append("Hold")
+    return results
 
-# Load trained model
-try:
-    model = pd.read_pickle(model_save_path)
-except FileNotFoundError:
-    print(f"Model file not found: {model_save_path}")
-    exit(1)
+# Run backtest
+results = backtest_strategy(data)
+print("Backtesting results:", results)
 
-# Example backtesting logic
-# Assuming you have a model saved and you want to backtest predictions
-data['predictions'] = model.predict(data.drop(columns=['target_column']))  # Replace 'target_column' with your actual target column name
-
-# Calculate performance metrics (e.g., accuracy)
-accuracy = (data['predictions'] == data['target_column']).mean()
-
-# Save backtest results
-data.to_csv(backtest_results_path, index=False)
-
-print(f"Backtesting completed. Accuracy: {accuracy:.2f}. Results saved to {backtest_results_path}.")
+# Save results (optional)
+results_df = pd.DataFrame(results, columns=['Decision'])
+results_df.to_csv('/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/results/backtesting_results.csv', index=False)
