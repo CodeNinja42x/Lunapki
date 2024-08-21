@@ -1,4 +1,12 @@
-from scripts.lib.trading_bot_library import load_model
+from your_trading_library import simulate_trading, deploy_model  # Replace with your actual functions
+import pandas as pd
 
-model = load_model('/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/models/best_model.pkl')
-# Deploy or simulate the model (implementation not provided, add your logic here)
+# Load the enhanced data
+df = pd.read_csv('/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/btc_data_with_indicators.csv')
+
+# Load the trained model
+import joblib
+model = joblib.load('/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/models/best_model.pkl')
+
+# Choose to deploy or simulate
+simulate_trading(model, df['2024':])  # Or use deploy_model(model) for live deployment

@@ -1,0 +1,328 @@
+2024-08-20 16:36:01,698 - INFO - Close: 60381.6, RSI: 38.64187202063243, MACD: -53.43656316515262, MACD Signal: -37.029985829021335
+2024-08-20 16:36:01,700 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:36:01,701 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:37:03,235 - INFO - Close: 60375.0, RSI: 38.33117861035543, MACD: -53.96305889164796, MACD Signal: -37.1352849743204
+2024-08-20 16:37:03,235 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:37:03,235 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:38:03,648 - INFO - Close: 60354.9, RSI: 37.41501728144063, MACD: -55.56647769506526, MACD Signal: -37.455968735003864
+2024-08-20 16:38:03,648 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:38:03,648 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:39:04,637 - INFO - Close: 60427.8, RSI: 40.966235063366575, MACD: -49.75109307968523, MACD Signal: -36.29289181192786
+2024-08-20 16:39:04,638 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:39:04,638 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:40:04,956 - INFO - Close: 60396.0, RSI: 39.51690797488309, MACD: -56.98456630624423, MACD Signal: -40.9085828361473
+2024-08-20 16:40:04,956 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:40:04,956 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:41:05,268 - INFO - Close: 60485.1, RSI: 45.91242085607206, MACD: -49.87687399855349, MACD Signal: -39.487044374609155
+2024-08-20 16:41:05,268 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:41:05,268 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:42:05,790 - INFO - Close: 60707.5, RSI: 57.20702371368224, MACD: -32.13556345724646, MACD Signal: -35.938782266347744
+2024-08-20 16:42:05,790 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:42:05,790 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:43:06,135 - INFO - Close: 60757.2, RSI: 59.11494147376605, MACD: -28.170891092573584, MACD Signal: -35.14584779341317
+2024-08-20 16:43:06,135 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:43:06,135 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:44:06,662 - INFO - Close: 60635.2, RSI: 54.09043022915842, MACD: -37.90308482476394, MACD Signal: -37.09228653985124
+2024-08-20 16:44:06,662 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:44:06,662 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:45:06,997 - INFO - Close: 60750.0, RSI: 58.866862080546454, MACD: -10.004479067509237, MACD Signal: -30.288605387263566
+2024-08-20 16:45:06,998 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:45:06,998 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:46:07,316 - INFO - Close: 60648.5, RSI: 53.620677599253646, MACD: -18.101345164373924, MACD Signal: -31.9079786066365
+2024-08-20 16:46:07,321 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:46:07,322 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:47:07,627 - INFO - Close: 60772.5, RSI: 59.74714421074095, MACD: -8.209607272634457, MACD Signal: -29.929631028288608
+2024-08-20 16:47:07,627 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:47:07,627 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:48:07,975 - INFO - Close: 60774.6, RSI: 59.82738531926712, MACD: -8.042085905115528, MACD Signal: -29.896126754784824
+2024-08-20 16:48:07,976 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:48:07,976 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:49:08,278 - INFO - Close: 60805.7, RSI: 60.979341375298745, MACD: -5.561174224196293, MACD Signal: -29.399944418600974
+2024-08-20 16:49:08,278 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:49:08,278 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:50:09,330 - INFO - Close: 60830.0, RSI: 61.92136103202417, MACD: 14.462643840022793, MACD Signal: -20.737193148643335
+2024-08-20 16:50:09,333 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:50:09,334 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 16:51:09,674 - INFO - Close: 60743.4, RSI: 57.573023788804186, MACD: 7.554381731759349, MACD Signal: -22.118845570296024
+2024-08-20 16:51:09,679 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 16:51:09,679 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:30:19,839 - INFO - Close: 59961.14, RSI: 28.629973118788016, MACD: -137.20632926966937, MACD Signal: -58.57628746795932
+2024-08-20 17:30:19,840 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:30:19,840 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:31:20,813 - INFO - Close: 59857.26, RSI: 26.507395282626888, MACD: -145.4930529163903, MACD Signal: -60.23363219730351
+2024-08-20 17:31:20,814 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:31:20,816 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:32:21,444 - INFO - Close: 59828.67, RSI: 25.977341901005303, MACD: -147.77373667708162, MACD Signal: -60.68976894944177
+2024-08-20 17:32:21,451 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:32:21,464 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:33:22,015 - INFO - Close: 59837.83, RSI: 26.144843873721555, MACD: -147.0430244263698, MACD Signal: -60.54362649929941
+2024-08-20 17:33:22,015 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:33:22,015 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:34:22,334 - INFO - Close: 59860.0, RSI: 26.559332474211487, MACD: -145.2744774178136, MACD Signal: -60.189917097588165
+2024-08-20 17:34:22,335 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:34:22,335 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:35:22,651 - INFO - Close: 59888.52, RSI: 26.970698318397297, MACD: -161.22649033810012, MACD Signal: -78.84008074854012
+2024-08-20 17:35:22,651 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:35:22,651 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:36:23,006 - INFO - Close: 59772.0, RSI: 24.71832640672754, MACD: -170.52153307314438, MACD Signal: -80.69908929554896
+2024-08-20 17:36:23,008 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:36:23,008 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:37:23,335 - INFO - Close: 59878.0, RSI: 26.750623570037817, MACD: -162.06569261730328, MACD Signal: -79.00792120438075
+2024-08-20 17:37:23,336 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:37:23,336 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:38:23,658 - INFO - Close: 59747.77, RSI: 24.296394201929147, MACD: -172.45441056601703, MACD Signal: -81.08566479412349
+2024-08-20 17:38:23,658 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:38:23,658 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:39:23,989 - INFO - Close: 59782.97, RSI: 24.91421141924795, MACD: -169.6464333580443, MACD Signal: -80.52406935252895
+2024-08-20 17:39:23,990 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:39:23,990 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:40:24,309 - INFO - Close: 59746.89, RSI: 24.237905144528057, MACD: -197.49524801615917, MACD Signal: -103.95646804821693
+2024-08-20 17:40:24,309 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:40:24,309 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:41:24,622 - INFO - Close: 59728.01, RSI: 23.896442360595827, MACD: -199.0013448822574, MACD Signal: -104.25768742143657
+2024-08-20 17:41:24,626 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:41:24,627 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:42:25,171 - INFO - Close: 59659.99, RSI: 22.742153462377843, MACD: -204.42744174835389, MACD Signal: -105.34290679465587
+2024-08-20 17:42:25,172 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:42:25,172 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:43:25,501 - INFO - Close: 59682.68, RSI: 23.114601376216854, MACD: -202.61741325832554, MACD Signal: -104.9809010966502
+2024-08-20 17:43:25,503 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:43:25,503 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:44:26,038 - INFO - Close: 59690.0, RSI: 23.2373728791503, MACD: -202.0334816343966, MACD Signal: -104.86411477186442
+2024-08-20 17:44:26,039 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:44:26,039 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:45:26,351 - INFO - Close: 59666.98, RSI: 23.236497930558272, MACD: -228.7259466846881, MACD Signal: -130.0449142028621
+2024-08-20 17:45:26,351 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:45:26,351 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:46:26,664 - INFO - Close: 59630.0, RSI: 22.234611415713488, MACD: -231.6759181946618, MACD Signal: -130.63490850485684
+2024-08-20 17:46:26,664 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:46:26,664 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:47:27,193 - INFO - Close: 59625.0, RSI: 22.151796941388127, MACD: -232.07477859352366, MACD Signal: -130.7146805846292
+2024-08-20 17:47:27,194 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:47:27,194 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:48:27,742 - INFO - Close: 59824.03, RSI: 31.407282860905255, MACD: -216.19774155648338, MACD Signal: -127.53927317722116
+2024-08-20 17:48:27,744 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:48:27,744 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:49:28,300 - INFO - Close: 59725.99, RSI: 26.52510814889905, MACD: -224.01859625733778, MACD Signal: -129.10344411739203
+2024-08-20 17:49:28,302 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:49:28,302 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:50:29,306 - INFO - Close: 59682.0, RSI: 26.011030314398283, MACD: -239.4975420437695, MACD Signal: -151.0367594291642
+2024-08-20 17:50:29,307 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:50:29,308 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:51:29,623 - INFO - Close: 59652.01, RSI: 25.44370746116917, MACD: -241.8899067161401, MACD Signal: -151.51523236363832
+2024-08-20 17:51:29,623 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:51:29,623 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:52:30,155 - INFO - Close: 59554.0, RSI: 23.750757535320346, MACD: -249.70836825459992, MACD Signal: -153.0789246713303
+2024-08-20 17:52:30,157 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:52:30,157 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:53:30,487 - INFO - Close: 59704.0, RSI: 26.443560103811564, MACD: -237.74255628878745, MACD Signal: -150.6857622781678
+2024-08-20 17:53:30,488 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:53:30,489 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:54:30,903 - INFO - Close: 59648.0, RSI: 25.369720309321366, MACD: -242.2097927560244, MACD Signal: -151.5792095716152
+2024-08-20 17:54:30,904 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:54:30,904 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:55:31,311 - INFO - Close: 59588.08, RSI: 24.2878141034069, MACD: -261.67707575701206, MACD Signal: -174.11328081439137
+2024-08-20 17:55:31,311 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:55:31,311 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:56:31,638 - INFO - Close: 59574.01, RSI: 24.0349850773988, MACD: -262.79946891940926, MACD Signal: -174.33775944687082
+2024-08-20 17:56:31,638 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:56:31,638 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:57:31,963 - INFO - Close: 59496.99, RSI: 22.73922787328266, MACD: -268.9435145034513, MACD Signal: -175.56656856367923
+2024-08-20 17:57:31,963 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:57:31,963 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:58:32,370 - INFO - Close: 59520.0, RSI: 23.111465581941886, MACD: -267.1079589478977, MACD Signal: -175.1994574525685
+2024-08-20 17:58:32,370 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:58:32,370 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 17:59:32,694 - INFO - Close: 59470.0, RSI: 22.31760255248311, MACD: -271.09656293650187, MACD Signal: -175.99717825028935
+2024-08-20 17:59:32,694 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 17:59:32,694 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:00:33,224 - INFO - Close: 59242.08, RSI: 19.10444428115953, MACD: -306.8065675412363, MACD Signal: -202.26371707713935
+2024-08-20 18:00:33,225 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:00:33,225 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:01:33,545 - INFO - Close: 59154.56, RSI: 18.10113953874837, MACD: -313.7882199628948, MACD Signal: -203.66004756147106
+2024-08-20 18:01:33,546 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:01:33,546 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:02:33,863 - INFO - Close: 59120.08, RSI: 17.734220284036994, MACD: -316.5387612734339, MACD Signal: -204.21015582357887
+2024-08-20 18:02:33,863 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:02:33,863 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:03:34,191 - INFO - Close: 59134.01, RSI: 17.880650859398187, MACD: -315.427536202209, MACD Signal: -203.9879108093339
+2024-08-20 18:03:34,192 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:03:34,192 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:04:34,757 - INFO - Close: 59001.63, RSI: 16.57968137304347, MACD: -325.98776412243024, MACD Signal: -206.09995639337814
+2024-08-20 18:04:34,757 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:04:34,757 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:05:35,307 - INFO - Close: 58905.0, RSI: 15.627512281466338, MACD: -367.0349459930803, MACD Signal: -237.1596790996449
+2024-08-20 18:05:35,307 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:05:35,307 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:06:35,632 - INFO - Close: 58900.0, RSI: 15.584040260689335, MACD: -367.4338063919422, MACD Signal: -237.23945117941724
+2024-08-20 18:06:35,632 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:06:35,632 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:07:35,966 - INFO - Close: 58836.15, RSI: 15.04943756230358, MACD: -372.52725368538813, MACD Signal: -238.25814063810645
+2024-08-20 18:07:35,967 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:07:35,967 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:08:36,299 - INFO - Close: 58916.44, RSI: 15.727894403423008, MACD: -366.1223534004894, MACD Signal: -236.9771605811267
+2024-08-20 18:08:36,300 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:08:36,301 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:09:36,631 - INFO - Close: 58811.77, RSI: 14.85486013725729, MACD: -374.4720969902264, MACD Signal: -238.6471092990741
+2024-08-20 18:09:36,631 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:09:36,631 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:10:36,983 - INFO - Close: 58878.0, RSI: 16.84730195177555, MACD: -406.58600650305016, MACD Signal: -271.85325911024063
+2024-08-20 18:10:36,983 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:10:36,983 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:11:37,541 - INFO - Close: 58710.55, RSI: 14.026882123714415, MACD: -419.943841260887, MACD Signal: -274.52482606180797
+2024-08-20 18:11:37,542 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:11:37,542 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:12:38,573 - INFO - Close: 58775.2, RSI: 14.533589423592758, MACD: -414.78657630361704, MACD Signal: -273.493373070354
+2024-08-20 18:12:38,578 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:12:38,578 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:13:38,904 - INFO - Close: 58827.37, RSI: 14.969973973841704, MACD: -410.62486690191145, MACD Signal: -272.66103119001286
+2024-08-20 18:13:38,905 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:13:38,905 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:14:39,507 - INFO - Close: 58861.16, RSI: 16.043778146332656, MACD: -407.92936832641135, MACD Signal: -272.12193147491286
+2024-08-20 18:14:39,509 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:14:39,509 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:15:39,828 - INFO - Close: 58904.0, RSI: 18.202648434137274, MACD: -427.83215095475316, MACD Signal: -303.2406181059238
+2024-08-20 18:15:39,846 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:15:39,859 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:16:40,421 - INFO - Close: 59146.0, RSI: 28.605062531438207, MACD: -408.527307649907, MACD Signal: -299.3796494449545
+2024-08-20 18:16:40,423 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:16:40,423 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:17:40,735 - INFO - Close: 59032.14, RSI: 24.061319569442205, MACD: -417.6101566527577, MACD Signal: -301.1962192455247
+2024-08-20 18:17:40,735 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:17:40,736 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:18:41,095 - INFO - Close: 58994.01, RSI: 22.407602788756137, MACD: -420.651866054468, MACD Signal: -301.8045611258667
+2024-08-20 18:18:41,099 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:18:41,100 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:19:41,668 - INFO - Close: 59119.53, RSI: 27.597935103831645, MACD: -410.63887460147816, MACD Signal: -299.80196283526874
+2024-08-20 18:19:41,670 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:19:41,670 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:20:41,997 - INFO - Close: 59134.32, RSI: 28.95760066875961, MACD: -403.78680581357185, MACD Signal: -319.9296117728095
+2024-08-20 18:20:41,999 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:20:41,999 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:21:42,378 - INFO - Close: 59137.77, RSI: 29.01233308050554, MACD: -403.5115921383549, MACD Signal: -319.8745690377661
+2024-08-20 18:21:42,386 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:21:42,495 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:22:43,491 - INFO - Close: 59040.22, RSI: 27.540488900467736, MACD: -411.29335852012446, MACD Signal: -321.43092231412
+2024-08-20 18:22:43,492 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:22:43,493 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:23:43,845 - INFO - Close: 59171.83, RSI: 29.5639919881217, MACD: -400.7945551013254, MACD Signal: -319.33116163036016
+2024-08-20 18:23:43,845 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:23:43,845 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:24:44,908 - INFO - Close: 59182.18, RSI: 29.96552521875354, MACD: -399.96891407567455, MACD Signal: -319.16603342523
+2024-08-20 18:24:44,909 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:24:44,909 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:25:45,227 - INFO - Close: 59145.99, RSI: 29.331126666713672, MACD: -393.2150171502144, MACD Signal: -333.97570253490113
+2024-08-20 18:25:45,228 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:25:45,228 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:26:45,554 - INFO - Close: 59027.19, RSI: 27.424575294664848, MACD: -402.6919402271451, MACD Signal: -335.8710871502873
+2024-08-20 18:26:45,555 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:26:45,555 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:27:46,569 - INFO - Close: 59038.12, RSI: 27.589569392896664, MACD: -401.82003139523295, MACD Signal: -335.6967053839048
+2024-08-20 18:27:46,575 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:27:46,580 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:28:47,573 - INFO - Close: 58999.47, RSI: 27.014844111764234, MACD: -404.9032222784226, MACD Signal: -336.31334356054276
+2024-08-20 18:28:47,578 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:28:47,578 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:29:48,582 - INFO - Close: 59060.44, RSI: 27.932744786894688, MACD: -400.0395185747184, MACD Signal: -335.3406028198019
+2024-08-20 18:29:48,584 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:29:48,584 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:30:49,574 - INFO - Close: 59023.16, RSI: 27.327134679352866, MACD: -398.8153812315941, MACD Signal: -348.09873798934007
+2024-08-20 18:30:49,576 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:30:49,576 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:31:50,591 - INFO - Close: 59117.99, RSI: 30.457243447945118, MACD: -391.25059490680724, MACD Signal: -346.58578072438274
+2024-08-20 18:31:50,591 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:31:50,592 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:32:51,607 - INFO - Close: 59078.11, RSI: 28.819551161274646, MACD: -394.43190544812387, MACD Signal: -347.222042832646
+2024-08-20 18:32:51,610 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:32:51,610 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:33:51,926 - INFO - Close: 59074.52, RSI: 28.668333655424206, MACD: -394.71828721449856, MACD Signal: -347.279319185921
+2024-08-20 18:33:51,928 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:33:51,928 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:34:52,251 - INFO - Close: 59058.54, RSI: 27.98735668123443, MACD: -395.9930450492611, MACD Signal: -347.5342707528735
+2024-08-20 18:34:52,253 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:34:52,253 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:35:52,565 - INFO - Close: 59063.99, RSI: 28.299858120575905, MACD: -387.0324865124421, MACD Signal: -355.32338171105505
+2024-08-20 18:35:52,566 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:35:52,566 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:36:52,880 - INFO - Close: 59078.0, RSI: 28.849834057511643, MACD: -385.9148796748341, MACD Signal: -355.0998603435334
+2024-08-20 18:36:52,882 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:36:52,882 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:37:53,212 - INFO - Close: 59133.66, RSI: 31.281165238468276, MACD: -381.4747657147236, MACD Signal: -354.21183755151134
+2024-08-20 18:37:53,231 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:37:53,232 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:38:53,616 - INFO - Close: 59148.22, RSI: 31.889996964202908, MACD: -380.3132842332416, MACD Signal: -353.97954125521494
+2024-08-20 18:38:53,617 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:38:53,617 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:39:53,943 - INFO - Close: 59112.85, RSI: 30.39184701692119, MACD: -383.1348226947739, MACD Signal: -354.5438489475214
+2024-08-20 18:39:53,945 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:39:53,946 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:40:54,276 - INFO - Close: 59076.37, RSI: 29.5053251635088, MACD: -372.5695811478072, MACD Signal: -358.23680849299296
+2024-08-20 18:40:54,278 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:40:54,278 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:41:54,591 - INFO - Close: 59067.8, RSI: 29.339508408864788, MACD: -373.2532278714498, MACD Signal: -358.37353783772147
+2024-08-20 18:41:54,591 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:41:54,592 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:42:54,907 - INFO - Close: 59071.85, RSI: 29.417636999786822, MACD: -372.9301509483703, MACD Signal: -358.30892245310554
+2024-08-20 18:42:54,907 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:42:54,907 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:43:55,224 - INFO - Close: 58928.0, RSI: 26.87566254818458, MACD: -384.4053646235843, MACD Signal: -360.6039651881484
+2024-08-20 18:43:55,224 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:43:55,226 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:44:55,549 - INFO - Close: 58950.0, RSI: 27.235588343179145, MACD: -382.6503788686023, MACD Signal: -360.25296803715196
+2024-08-20 18:44:55,553 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:44:55,554 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:45:55,869 - INFO - Close: 58943.9, RSI: 27.127108478493028, MACD: -377.9667539608854, MACD Signal: -363.7957252218987
+2024-08-20 18:45:55,870 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:45:55,870 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:46:56,303 - INFO - Close: 58882.0, RSI: 26.073282506458412, MACD: -382.9046456987853, MACD Signal: -364.7833035694787
+2024-08-20 18:46:56,303 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:46:56,303 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:47:56,617 - INFO - Close: 58847.99, RSI: 25.528397410891827, MACD: -385.61769413183356, MACD Signal: -365.3259132560883
+2024-08-20 18:47:56,617 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:47:56,617 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:48:56,960 - INFO - Close: 58730.01, RSI: 23.80280168450342, MACD: -395.029204103339, MACD Signal: -367.2082152503894
+2024-08-20 18:48:56,961 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:48:56,962 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:49:57,341 - INFO - Close: 58764.72, RSI: 24.28576428553751, MACD: -392.2603152144511, MACD Signal: -366.65443747261185
+2024-08-20 18:49:57,343 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:49:57,344 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:50:57,654 - INFO - Close: 58736.01, RSI: 23.84724840489355, MACD: -397.1783881458614, MACD Signal: -372.6698828779172
+2024-08-20 18:50:57,655 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:50:57,655 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:51:57,972 - INFO - Close: 58834.0, RSI: 27.249596158572132, MACD: -389.36152204899554, MACD Signal: -371.10650965854404
+2024-08-20 18:51:57,972 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:51:57,972 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:52:58,287 - INFO - Close: 58847.1, RSI: 27.824621798513306, MACD: -388.31650780398195, MACD Signal: -370.8975068095413
+2024-08-20 18:52:58,289 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:52:58,289 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:53:58,913 - INFO - Close: 58873.59, RSI: 28.960063984208958, MACD: -386.2033454108241, MACD Signal: -370.47487433090976
+2024-08-20 18:53:58,915 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:53:58,915 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:54:59,234 - INFO - Close: 58863.99, RSI: 28.5527297866808, MACD: -386.9691573766322, MACD Signal: -370.62803672407136
+2024-08-20 18:54:59,238 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:54:59,238 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:55:59,559 - INFO - Close: 58804.0, RSI: 27.49165404487529, MACD: -383.63739783530036, MACD Signal: -373.2300365816441
+2024-08-20 18:55:59,559 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:55:59,559 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:56:59,872 - INFO - Close: 58756.01, RSI: 26.698137837076516, MACD: -387.4656599435548, MACD Signal: -373.99568900329496
+2024-08-20 18:56:59,873 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:56:59,873 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:58:00,190 - INFO - Close: 58735.51, RSI: 26.372962972672312, MACD: -389.10098757888045, MACD Signal: -374.3227545303601
+2024-08-20 18:58:00,192 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:58:00,193 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 18:59:00,523 - INFO - Close: 58825.71, RSI: 27.866336870976937, MACD: -381.9055459834417, MACD Signal: -372.8836662112723
+2024-08-20 18:59:00,524 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 18:59:00,524 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 19:00:00,846 - INFO - Close: 58822.02, RSI: 27.79723340137204, MACD: -373.89094937880145, MACD Signal: -373.0874202806758
+2024-08-20 19:00:00,848 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 19:00:00,848 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 19:01:01,197 - INFO - Close: 58745.93, RSI: 26.440463751393224, MACD: -379.96080692866235, MACD Signal: -374.301391790648
+2024-08-20 19:01:01,197 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 19:01:01,197 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 19:02:01,529 - INFO - Close: 58722.13, RSI: 26.042867103558905, MACD: -381.85938242723205, MACD Signal: -374.68110689036195
+2024-08-20 19:02:01,530 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 19:02:01,530 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 19:03:02,084 - INFO - Close: 58939.24, RSI: 33.01230134735921, MACD: -364.5400661879248, MACD Signal: -371.2172436425005
+2024-08-20 19:03:02,088 - INFO - No trade signal: Conditions not met for buying or selling.
+2024-08-20 19:03:02,089 - INFO - No trade executed. Waiting for better conditions.
+2024-08-20 19:04:02,417 - INFO - Close: 58848.9, RSI: 28.985070092980422, MACD: -371.7466758745213, MACD Signal: -372.65856557981976

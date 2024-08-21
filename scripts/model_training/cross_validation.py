@@ -1,23 +1,17 @@
-import joblib
-import pandas as pd
-from sklearn.model_selection import cross_val_score, StratifiedKFold
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import cross_val_score
+import numpy as np
+import pandas as pd
 
-# Load the dataset
-data = pd.read_csv('/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/processed_data.csv')
-X = data.drop(columns=['target'])
-y = data['target']
+# Load data
+df = pd.read_csv('/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/btc_data_with_indicators.csv')
+X = df[['SMA_20', 'SMA_50', 'RSI', 'Bollinger_Upper', 'Bollinger_Lower']]
+y = df['Target']
 
-# Load the best model
-model = joblib.load('/Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/models/best_model.pkl')
+# Model with best parameters found from Optuna
+best_params = {'n_estimators': 100, 'max_depth': 5, 'min_samples_split': 2, 'min_samples_leaf': 1}  # Replace with your best_params
+model = RandomForestClassifier(**best_params)
 
-# Define cross-validation strategy
-cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
-
-# Perform cross-validation
-scores = cross_val_score(model, X, y, cv=cv, scoring='accuracy')
-
-# Print the cross-validation results
-print("Cross-Validation Scores:", scores)
-print("Mean Accuracy:", scores.mean())
-print("Standard Deviation:", scores.std())
+scores = cross_val_score(model, X, y, cv=5)
+print(f"Cross-validation scores: {scores}")
+print(f"Mean CV score: {np.mean(scores)}")
