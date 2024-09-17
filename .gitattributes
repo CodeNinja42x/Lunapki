@@ -4,3 +4,5 @@
 venv/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
 utils/Miniconda3-latest-MacOSX-x86_64.sh filter=lfs diff=lfs merge=lfs -text
 venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.2.dylib filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.log filter=lfs diff=lfs merge=lfs -text
