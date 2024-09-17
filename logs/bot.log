@@ -1,0 +1,884 @@
+2024-08-21 17:53:03,826 - INFO - Processing BTCUSDT
+2024-08-21 17:53:03,827 - INFO - Fetching data for BTCUSDT with timeframe 1m
+2024-08-21 17:53:05,261 - INFO - Data fetched and processed successfully
+2024-08-21 17:53:05,261 - INFO - Processing data
+2024-08-21 17:53:06,742 - INFO - Calculated quantity for BTCUSDT: 0.0
+2024-08-21 17:53:07,017 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
+2024-08-21 17:53:07,018 - INFO - Processing ETHUSDT
+2024-08-21 17:53:07,018 - INFO - Fetching data for ETHUSDT with timeframe 1m
+2024-08-21 17:53:08,121 - INFO - Data fetched and processed successfully
+2024-08-21 17:53:08,122 - INFO - Processing data
+2024-08-21 17:53:09,453 - INFO - Calculated quantity for ETHUSDT: 0.0193
+2024-08-21 17:53:09,725 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
+2024-08-21 17:53:09,726 - INFO - Processing BNBUSDT
+2024-08-21 17:53:09,726 - INFO - Fetching data for BNBUSDT with timeframe 1m
+2024-08-21 17:53:10,651 - INFO - Data fetched and processed successfully
+2024-08-21 17:53:10,651 - INFO - Processing data
+2024-08-21 17:53:11,802 - INFO - Calculated quantity for BNBUSDT: 0.091
+2024-08-21 17:53:12,088 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
+2024-08-21 17:53:12,088 - INFO - Bot cycle complete, sleeping for 60 seconds
+2024-08-21 17:54:12,089 - INFO - Processing BTCUSDT
+2024-08-21 17:54:12,091 - INFO - Fetching data for BTCUSDT with timeframe 1m
+2024-08-21 17:54:13,450 - INFO - Data fetched and processed successfully
+2024-08-21 17:54:13,450 - INFO - Processing data
+2024-08-21 17:54:15,133 - INFO - Calculated quantity for BTCUSDT: 0.0
+2024-08-21 17:54:15,423 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
+2024-08-21 17:54:15,423 - INFO - Processing ETHUSDT
+2024-08-21 17:54:15,423 - INFO - Fetching data for ETHUSDT with timeframe 1m
+2024-08-21 17:54:16,309 - INFO - Data fetched and processed successfully
+2024-08-21 17:54:16,310 - INFO - Processing data
+2024-08-21 17:54:17,668 - INFO - Calculated quantity for ETHUSDT: 0.0193
+2024-08-21 17:54:17,939 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
+2024-08-21 17:54:17,940 - INFO - Processing BNBUSDT
+2024-08-21 17:54:17,940 - INFO - Fetching data for BNBUSDT with timeframe 1m
+2024-08-21 17:54:18,807 - INFO - Data fetched and processed successfully
+2024-08-21 17:54:18,808 - INFO - Processing data
+2024-08-21 17:54:19,706 - INFO - Calculated quantity for BNBUSDT: 0.091
+2024-08-21 17:54:19,993 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
+2024-08-21 17:54:19,993 - INFO - Bot cycle complete, sleeping for 60 seconds
+2024-08-21 17:55:48,585 - INFO - Processing BTCUSDT
+2024-08-21 17:55:48,585 - INFO - Fetching data for BTCUSDT with timeframe 1m
+2024-08-21 17:55:49,807 - INFO - Data fetched and processed successfully
+2024-08-21 17:55:49,808 - INFO - Processing data
+2024-08-21 17:55:50,700 - INFO - Calculated quantity for BTCUSDT: 0.0
+2024-08-21 17:55:50,972 - ERROR - Error placing order: APIError(code=-1013): Invalid quantity.
+2024-08-21 17:55:50,972 - INFO - Processing ETHUSDT
+2024-08-21 17:55:50,972 - INFO - Fetching data for ETHUSDT with timeframe 1m
+2024-08-21 17:55:51,916 - INFO - Data fetched and processed successfully
+2024-08-21 17:55:51,917 - INFO - Processing data
+2024-08-21 17:55:52,899 - INFO - Calculated quantity for ETHUSDT: 0.0193
+2024-08-21 17:55:53,171 - ERROR - Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+2024-08-21 17:55:53,171 - INFO - Processing BNBUSDT
+2024-08-21 17:55:53,171 - INFO - Fetching data for BNBUSDT with timeframe 1m
+2024-08-21 17:55:54,477 - INFO - Data fetched and processed successfully
+2024-08-21 17:55:54,478 - INFO - Processing data
+2024-08-21 17:55:56,588 - INFO - Calculated quantity for BNBUSDT: 0.091
+2024-08-21 17:55:56,874 - ERROR - Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+2024-08-21 17:55:56,874 - INFO - Bot cycle complete, sleeping for 60 seconds
+2024-08-21 17:56:56,877 - INFO - Processing BTCUSDT
+2024-08-21 17:56:56,879 - INFO - Fetching data for BTCUSDT with timeframe 1m
+2024-08-21 17:56:58,456 - INFO - Data fetched and processed successfully
+2024-08-21 17:56:58,456 - INFO - Processing data
+2024-08-21 17:56:59,926 - INFO - Calculated quantity for BTCUSDT: 0.0
+2024-08-21 17:57:00,373 - ERROR - Error placing order: APIError(code=-1013): Invalid quantity.
+2024-08-21 17:57:00,374 - INFO - Processing ETHUSDT
+2024-08-21 17:57:00,374 - INFO - Fetching data for ETHUSDT with timeframe 1m
+2024-08-21 17:57:01,474 - INFO - Data fetched and processed successfully
+2024-08-21 17:57:01,475 - INFO - Processing data
+2024-08-21 17:57:02,709 - INFO - Calculated quantity for ETHUSDT: 0.0193
+2024-08-21 17:57:02,993 - ERROR - Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+2024-08-21 17:57:02,993 - INFO - Processing BNBUSDT
+2024-08-21 17:57:02,993 - INFO - Fetching data for BNBUSDT with timeframe 1m
+2024-08-21 17:57:03,853 - INFO - Data fetched and processed successfully
+2024-08-21 17:57:03,853 - INFO - Processing data
+2024-08-21 17:57:05,107 - INFO - Calculated quantity for BNBUSDT: 0.091
+2024-08-21 17:57:05,831 - ERROR - Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+2024-08-21 17:57:05,831 - INFO - Bot cycle complete, sleeping for 60 seconds
+2024-08-21 17:58:05,836 - INFO - Processing BTCUSDT
+2024-08-21 17:58:05,836 - INFO - Fetching data for BTCUSDT with timeframe 1m
+2024-08-21 17:58:06,928 - INFO - Data fetched and processed successfully
+2024-08-21 17:58:06,928 - INFO - Processing data
+2024-08-21 17:58:07,844 - INFO - Calculated quantity for BTCUSDT: 0.0
+2024-08-21 17:58:08,116 - ERROR - Error placing order: APIError(code=-1013): Invalid quantity.
+2024-08-21 17:58:08,116 - INFO - Processing ETHUSDT
+2024-08-21 17:58:08,117 - INFO - Fetching data for ETHUSDT with timeframe 1m
+2024-08-21 17:58:09,886 - INFO - Data fetched and processed successfully
+2024-08-21 17:58:09,887 - INFO - Processing data
+2024-08-21 17:58:11,278 - INFO - Calculated quantity for ETHUSDT: 0.0193
+2024-08-21 17:58:11,552 - ERROR - Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+2024-08-21 17:58:11,552 - INFO - Processing BNBUSDT
+2024-08-21 17:58:11,552 - INFO - Fetching data for BNBUSDT with timeframe 1m
+2024-08-21 17:58:12,432 - INFO - Data fetched and processed successfully
+2024-08-21 17:58:12,433 - INFO - Processing data
+2024-08-21 17:58:13,256 - INFO - Calculated quantity for BNBUSDT: 0.09
+2024-08-21 17:58:13,596 - ERROR - Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+2024-08-21 17:58:13,596 - INFO - Bot cycle complete, sleeping for 60 seconds
+2024-08-21 17:59:13,597 - INFO - Processing BTCUSDT
+2024-08-21 17:59:13,597 - INFO - Fetching data for BTCUSDT with timeframe 1m
+2024-08-21 17:59:14,462 - INFO - Data fetched and processed successfully
+2024-08-21 17:59:14,462 - INFO - Processing data
+2024-08-21 17:59:15,445 - INFO - Calculated quantity for BTCUSDT: 0.0
+2024-08-21 17:59:15,728 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-08-21 17:59:15,728 - INFO - Processing ETHUSDT
+2024-08-21 17:59:15,730 - INFO - Fetching data for ETHUSDT with timeframe 1m
+2024-08-21 17:59:16,660 - INFO - Data fetched and processed successfully
+2024-08-21 17:59:16,662 - INFO - Processing data
+2024-08-21 17:59:17,726 - INFO - Calculated quantity for ETHUSDT: 0.0193
+2024-08-21 17:59:18,004 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-08-21 17:59:18,004 - INFO - Processing BNBUSDT
+2024-08-21 17:59:18,004 - INFO - Fetching data for BNBUSDT with timeframe 1m
+2024-08-21 17:59:18,870 - INFO - Data fetched and processed successfully
+2024-08-21 17:59:18,871 - INFO - Processing data
+2024-08-21 17:59:19,619 - INFO - Calculated quantity for BNBUSDT: 0.091
+2024-08-21 17:59:19,949 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-08-21 17:59:19,949 - INFO - Bot cycle complete, sleeping for 60 seconds
+2024-08-21 18:00:19,961 - INFO - Processing BTCUSDT
+2024-08-21 18:00:19,986 - INFO - Fetching data for BTCUSDT with timeframe 1m
+2024-08-21 18:00:20,911 - INFO - Data fetched and processed successfully
+2024-08-21 18:00:20,912 - INFO - Processing data
+2024-08-21 18:00:21,663 - INFO - Calculated quantity for BTCUSDT: 0.0
+2024-08-21 18:00:21,932 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-08-21 18:00:21,933 - INFO - Processing ETHUSDT
+2024-08-21 18:00:21,933 - INFO - Fetching data for ETHUSDT with timeframe 1m
+2024-08-21 18:00:23,040 - INFO - Data fetched and processed successfully
+2024-08-21 18:00:23,041 - INFO - Processing data
+2024-08-21 18:00:23,764 - INFO - Calculated quantity for ETHUSDT: 0.0193
+2024-08-21 18:00:24,049 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-08-21 18:00:24,050 - INFO - Processing BNBUSDT
+2024-08-21 18:00:24,050 - INFO - Fetching data for BNBUSDT with timeframe 1m
+2024-08-21 18:00:24,936 - INFO - Data fetched and processed successfully
+2024-08-21 18:00:24,936 - INFO - Processing data
+2024-08-21 18:00:25,766 - INFO - Calculated quantity for BNBUSDT: 0.091
+2024-08-21 18:00:26,036 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-08-21 18:00:26,036 - INFO - Bot cycle complete, sleeping for 60 seconds
+2024-08-21 18:01:26,041 - INFO - Processing BTCUSDT
+2024-08-21 18:01:26,043 - INFO - Fetching data for BTCUSDT with timeframe 1m
+2024-08-21 18:01:26,922 - INFO - Data fetched and processed successfully
+2024-08-21 18:01:26,923 - INFO - Processing data
+2024-08-21 18:01:27,884 - INFO - Calculated quantity for BTCUSDT: 0.0
+2024-08-21 18:01:28,199 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-08-21 18:01:28,200 - INFO - Processing ETHUSDT
+2024-08-21 18:01:28,200 - INFO - Fetching data for ETHUSDT with timeframe 1m
+2024-08-21 18:01:29,093 - INFO - Data fetched and processed successfully
+2024-08-21 18:01:29,094 - INFO - Processing data
+2024-08-21 18:01:30,115 - INFO - Calculated quantity for ETHUSDT: 0.0193
+2024-08-21 18:01:30,406 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-08-21 18:01:30,407 - INFO - Processing BNBUSDT
+2024-08-21 18:01:30,407 - INFO - Fetching data for BNBUSDT with timeframe 1m
+2024-08-21 18:01:31,545 - INFO - Data fetched and processed successfully
+2024-08-21 18:01:31,545 - INFO - Processing data
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0386
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0386
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0386
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0386
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0386
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0385
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0385
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0385
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Processing ETHUSDT
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+INFO:root:Data fetched and processed successfully
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0038
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0038
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Data fetched and processed successfully
+INFO:root:Calculated quantity for BNBUSDT: 0.018
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Calculated quantity for BNBUSDT: 0.018
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Processing BTCUSDT
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Processing ETHUSDT
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0038
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Calculated quantity for ETHUSDT: 0.0038
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Processing BNBUSDT
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully
+INFO:root:Calculated quantity for BNBUSDT: 0.018
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Calculated quantity for BNBUSDT: 0.018
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+INFO:root:Processing BTCUSDT
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Data fetched and processed successfully
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Processing ETHUSDT
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0038
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Insufficient balance to execute trade
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Calculated quantity for ETHUSDT: 0.0038
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Processing BNBUSDT
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully
+INFO:root:Calculated quantity for BNBUSDT: 0.018
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Calculated quantity for BNBUSDT: 0.018
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Processing BTCUSDT
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Data fetched and processed successfully
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Processing ETHUSDT
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0038
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Calculated quantity for ETHUSDT: 0.0038
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Processing BNBUSDT
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully
+INFO:root:Calculated quantity for BNBUSDT: 0.018
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Calculated quantity for BNBUSDT: 0.018
+ERROR:root:Insufficient balance to execute trade
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0385
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0385
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0384
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0385
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0385
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0385
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+INFO:root:Fetching data for BTCUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BTCUSDT
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error calculating quantity: list index out of range
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Fetching data for ETHUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing ETHUSDT
+INFO:root:Calculated quantity for ETHUSDT: 0.0385
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for ETHUSDT: 0.0385
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Fetching data for BNBUSDT with timeframe 1m
+INFO:root:Data fetched and processed successfully
+INFO:root:Processing BNBUSDT
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Calculated quantity for BNBUSDT: 0.181
+ERROR:root:Error placing order: APIError(code=-2010): Account has insufficient balance for requested action.
+INFO:root:Bot cycle complete, sleeping for 60 seconds
+2024-08-21 18:32:12,733 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:32:12,733 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:32:13,042 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:32:13,049 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:32:13,358 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:32:13,358 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:33:14,734 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:33:14,734 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:33:15,032 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:33:15,032 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:33:15,372 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:33:15,372 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:34:16,668 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:34:16,669 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:34:16,978 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:34:16,979 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:34:17,287 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:34:17,287 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:35:18,452 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:35:18,454 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:35:18,745 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:35:18,745 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:35:19,056 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:35:19,056 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:36:20,272 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:36:20,273 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:36:20,561 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:36:20,561 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:36:20,851 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:36:20,851 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:37:22,004 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:37:22,007 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:37:22,294 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:37:22,294 - ERROR - Insufficient balance to execute trade
+2024-08-21 18:37:22,579 - ERROR - Error fetching futures balance: APIError(code=-2014): API-key format invalid.
+2024-08-21 18:37:22,580 - ERROR - Insufficient balance to execute trade
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BTCUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for ETHUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BNBUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BTCUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for ETHUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BNBUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BTCUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for ETHUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BNBUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BTCUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for ETHUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BNBUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BTCUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for ETHUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BNBUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BTCUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for ETHUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BNBUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BTCUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for ETHUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BNBUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+INFO:root:Data fetched and processed successfully for BTCUSDT
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Error during transfer: APIError(code=-5013): Asset transfer failed: insufficient balance
+ERROR:root:Invalid trade quantity for BTCUSDT: 0.0
+ERROR:root:Error placing order: APIError(code=-4164): Order's notional must be no smaller than 20 (unless you choose reduce only).
+ERROR:root:Error placing order: APIError(code=-1111): Precision is over the maximum defined for this asset.
+ERROR:root:Invalid trade quantity for BTCUSDT: 0.0
+ERROR:root:Notional value for BTCUSDT is too low: 0.0. Minimum required is 20.
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+INFO:root:Order executed: {'orderId': 8389765719158367042, 'symbol': 'ETHUSDT', 'status': 'NEW', 'clientOrderId': 'LBlQzNqRcixMdwFkpVav9j', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.008', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1724263385303}
+INFO:root:Order executed: {'orderId': 58539469875, 'symbol': 'BNBUSDT', 'status': 'NEW', 'clientOrderId': 'W28e05NAkAmCPR2uu6C1aS', 'price': '0.000', 'avgPrice': '0.00', 'origQty': '0.04', 'executedQty': '0.00', 'cumQty': '0.00', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1724263446786}
+ERROR:root:Notional value for BTCUSDT is too low: 0.0. Minimum required is 20.
+ERROR:root:Invalid trade quantity for BTCUSDT: None
+ERROR:root:Error placing order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+INFO:root:Order executed: {'orderId': 8389765719160240691, 'symbol': 'ETHUSDT', 'status': 'NEW', 'clientOrderId': 'UEufcd1UwTgkOawSyjPTmT', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.008', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1724263700904}
+INFO:root:Order executed: {'orderId': 58539606598, 'symbol': 'BNBUSDT', 'status': 'NEW', 'clientOrderId': '475vEIT8JnJBV7Tu5MvGHd', 'price': '0.000', 'avgPrice': '0.00', 'origQty': '0.04', 'executedQty': '0.00', 'cumQty': '0.00', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1724263763624}
+ERROR:root:Error placing order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+INFO:root:Order executed: {'orderId': 400745227534, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'r4J4vpKEyBArCCZThQRRvW', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1724263938685}
+ERROR:root:Notional value for ETHUSDT is too low: 20.99192. Minimum required is 100.
+ERROR:root:Invalid trade quantity for ETHUSDT: None
+ERROR:root:Notional value for BNBUSDT is too low: 22.304000000000002. Minimum required is 100.
+ERROR:root:Invalid trade quantity for BNBUSDT: None
+INFO:root:Order executed: {'orderId': 400747407902, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ADXvrRJFi36Pi7SbyCyJDm', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1724264183734}
+INFO:root:Order executed: {'orderId': 400747762435, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '3LgGPhEGsa6vAxOH8ZIlwJ', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1724264229895}
