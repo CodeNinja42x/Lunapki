@@ -18,3 +18,6 @@ venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.2.dylib
 venv/lib/python3.12/site-packages/scipy/.dylibs/libscipy_openblas.dylib
 venv/lib/python3.12/site-packages/numpy/.dylibs/libopenblas64_.0.dylib
 
+venv/
+*.dylib
+*.sh
