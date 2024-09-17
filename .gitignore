@@ -11,3 +11,10 @@ __pycache__/
 *.pyc
 *.pyo
 
+venv/
+utils/Miniconda3-latest-MacOSX-x86_64.sh
+venv/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.2.dylib
+venv/lib/python3.12/site-packages/scipy/.dylibs/libscipy_openblas.dylib
+venv/lib/python3.12/site-packages/numpy/.dylibs/libopenblas64_.0.dylib
+
