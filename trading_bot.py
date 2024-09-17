@@ -8,10 +8,13 @@ from binance.exceptions import BinanceAPIException, BinanceOrderException
 import joblib
 from logging.handlers import RotatingFileHandler
 
-# Secure API Key Management
-api_key = os.getenv('BINANCE_API_KEY')
-api_secret = os.getenv('BINANCE_API_SECRET')
-binance_client = Client(api_key, api_secret)
+# Secure API Key Management (Update with Testnet API keys)
+api_key = os.getenv('BINANCE_API_KEY')  # Testnet API key
+api_secret = os.getenv('BINANCE_API_SECRET')  # Testnet API secret
+
+# Initialize Binance client for Testnet
+binance_client = Client(api_key, api_secret, testnet=True)
+binance_client.API_URL = 'https://testnet.binance.vision/api'  # Use Testnet API URL for spot trading
 
 # Setup logging
 log_dir = os.path.expanduser('~/crypto_bot_logs')
@@ -29,8 +32,8 @@ console_formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s
 console_handler.setFormatter(console_formatter)
 logger.addHandler(console_handler)
 
-# Load the trained model
-model = joblib.load('crypto_model.pkl')  # Path to your model
+# Load the trained ML model (Ensure your model is in the working directory)
+model = joblib.load('crypto_model.pkl')  # Path to your ML model
 
 # Strategy Parameters
 strategy_params = {
@@ -53,9 +56,9 @@ total_trades = 0
 successful_trades = 0
 total_pnl = 0
 
-# Dictionary to track open positions
-open_positions = {}
-cooldown_periods = {}
+# Dictionary to track open positions and cooldown periods (properly initialize for symbols)
+open_positions = {}  # To track active trades
+cooldown_periods = {}  # To track cooldown times for symbols
 
 # Function to calculate indicators
 def calculate_indicators(symbol):
@@ -131,6 +134,7 @@ def place_trailing_stop_loss(symbol, quantity, trailing_stop_percentage):
 def should_buy(symbol):
     rsi, ma_short, ma_long, macd, signal, atr, ml_prediction, ml_confidence = calculate_indicators(symbol)
     
+    # Check cooldown for the symbol
     if symbol in cooldown_periods and time.time() - cooldown_periods[symbol] < get_dynamic_cooldown(atr):
         logger.info(f"{symbol} is still in dynamic timeout due to volatility, skipping buy.")
         return False
@@ -197,7 +201,7 @@ def sell_all(symbol, reason):
 # The main function running the bot
 def run_bot():
     global portfolio_peak
-    logger.info("Starlight Theorem Plus bot is now active!")
+    logger.info("Starlight Theorem Plus bot is now active in paper trading mode (Testnet)!")
     symbols = ['BTCUSDT', 'ETHUSDT', 'BNBUSDT']
 
     while True:
@@ -222,6 +226,7 @@ def run_bot():
                         sell_all(symbol, "Closing position based on strategy")
                         logger.info(f"Closed {symbol} at {exit_price}.")
                         del open_positions[symbol]
+                        cooldown_periods[symbol] = time.time()  # Add to cooldown after selling
                 else:
                     # Look for buy opportunities if no open position
                     if should_buy(symbol):
@@ -230,7 +235,7 @@ def run_bot():
                             entry_price = place_order(symbol, quantity)
                             if entry_price:
                                 logger.info(f"Bought {symbol} at {entry_price}")
-                                open_positions[symbol] = {'entry_price': float(entry_price)}
+                                open_positions[symbol] = {'entry_price': float(entry_price)}  # Track the open position
                                 place_trailing_stop_loss(symbol, quantity, strategy_params['trailing_stop_loss'] * 100)
                             else:
                                 logger.info(f"Failed to buy {symbol}.")

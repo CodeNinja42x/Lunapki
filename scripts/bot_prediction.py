@@ -46,13 +46,6 @@ strategy_params = {
     'ml_confidence_threshold': 0.7
 }
 
-# Portfolio management and metrics tracking
-portfolio_peak = None
-max_drawdown = 0.2
-total_trades = 0
-successful_trades = 0
-total_pnl = 0
-
 # Dictionary to track open positions
 open_positions = {}
 cooldown_periods = {}
@@ -82,38 +75,7 @@ def calculate_indicators(symbol):
         logger.error(f"Error in indicator calculation for {symbol}: {e}")
         return None, None, None, None, None, None, None, None
 
-# Dynamic Cooldown based on ATR (volatility)
-def get_dynamic_cooldown(atr):
-    base_cooldown = 300  # Base cooldown of 5 minutes
-    volatility_factor = atr / 0.01  # Adjust the factor for desired sensitivity
-    return base_cooldown * volatility_factor
-
-# Dynamic Allocation based on ML Confidence
-def dynamic_allocation(symbol, usdt_balance, ml_confidence):
-    min_allocation = 0.01  # 1% allocation
-    max_allocation = 0.10  # 10% allocation
-    allocation_factor = min_allocation + (max_allocation - min_allocation) * ml_confidence  # Scale based on confidence
-    return usdt_balance * allocation_factor
-
-# Check for max drawdown limit
-def check_drawdown(usdt_balance, portfolio_peak, max_drawdown):
-    drawdown = (portfolio_peak - usdt_balance) / portfolio_peak if portfolio_peak else 0
-    if drawdown > max_drawdown:
-        logger.info(f"Max drawdown reached: {drawdown:.2%}. Pausing trading.")
-        return True
-    return False
-
-# Update Performance Metrics
-def update_metrics(pnl, trade_successful):
-    global total_trades, successful_trades, total_pnl
-    total_trades += 1
-    if trade_successful:
-        successful_trades += 1
-    total_pnl += pnl
-    win_rate = successful_trades / total_trades if total_trades > 0 else 0
-    logger.info(f"Current win rate: {win_rate:.2%}, Total PnL: {total_pnl:.2f} USDT")
-
-# Place a trailing stop-loss order
+# Function to place a trailing stop-loss order
 def place_trailing_stop_loss(symbol, quantity, trailing_stop_percentage):
     try:
         order = binance_client.create_order(
@@ -127,14 +89,14 @@ def place_trailing_stop_loss(symbol, quantity, trailing_stop_percentage):
     except Exception as e:
         logger.error(f"Failed to place trailing stop-loss for {symbol}: {e}")
 
-# Determine if we should buy, incorporating dynamic cooldown logic
+# Determine if we should buy, incorporating cooldown logic
 def should_buy(symbol):
+    if symbol in cooldown_periods and time.time() - cooldown_periods[symbol] < 300:  # 5 min cooldown
+        logger.info(f"{symbol} is still in timeout, skipping buy.")
+        return False
+    
     rsi, ma_short, ma_long, macd, signal, atr, ml_prediction, ml_confidence = calculate_indicators(symbol)
     
-    if symbol in cooldown_periods and time.time() - cooldown_periods[symbol] < get_dynamic_cooldown(atr):
-        logger.info(f"{symbol} is still in dynamic timeout due to volatility, skipping buy.")
-        return False
-
     if ml_confidence > strategy_params['ml_confidence_threshold']:
         if ml_prediction == 1 and rsi < strategy_params['rsi_buy_threshold'] and ma_short > ma_long and macd > signal:
             return True
@@ -155,7 +117,7 @@ def should_sell(symbol, entry_price):
             return True, current_price
     return False, None
 
-# Calculate order quantity, accounting for trading fees
+# Calculate order quantity
 def calculate_quantity(symbol, usdt_balance):
     try:
         info = binance_client.get_symbol_info(symbol)
@@ -196,20 +158,13 @@ def sell_all(symbol, reason):
 
 # The main function running the bot
 def run_bot():
-    global portfolio_peak
     logger.info("Starlight Theorem Plus bot is now active!")
     symbols = ['BTCUSDT', 'ETHUSDT', 'BNBUSDT']
 
     while True:
         try:
             usdt_balance = float(binance_client.get_asset_balance(asset='USDT')['free'])
-            portfolio_peak = max(portfolio_peak, usdt_balance) if portfolio_peak else usdt_balance
             logger.info(f"Current USDT balance: {usdt_balance:.2f}. Searching for opportunities...")
-
-            if check_drawdown(usdt_balance, portfolio_peak, max_drawdown):
-                logger.info("Pausing trading due to max drawdown.")
-                time.sleep(3600)  # Pause for an hour
-                continue
 
             for symbol in symbols:
                 if symbol in open_positions:
@@ -217,15 +172,13 @@ def run_bot():
                     entry_price = open_positions[symbol]['entry_price']
                     should_exit, exit_price = should_sell(symbol, entry_price)
                     if should_exit:
-                        pnl = exit_price - entry_price  # Calculate profit or loss
-                        update_metrics(pnl, pnl > 0)
                         sell_all(symbol, "Closing position based on strategy")
                         logger.info(f"Closed {symbol} at {exit_price}.")
                         del open_positions[symbol]
                 else:
                     # Look for buy opportunities if no open position
                     if should_buy(symbol):
-                        quantity, notional = calculate_quantity(symbol, dynamic_allocation(symbol, usdt_balance, strategy_params['ml_confidence_threshold']))
+                        quantity, notional = calculate_quantity(symbol, usdt_balance * 0.05)
                         if quantity > 0 and notional >= 10:
                             entry_price = place_order(symbol, quantity)
                             if entry_price:

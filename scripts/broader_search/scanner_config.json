@@ -1,0 +1,6 @@
+{
+    "coins": ["BTC/USDT", "ETH/USDT", "BNB/USDT"],
+    "timeframe": "1h",
+    "rsi_threshold": 30,
+    "scan_interval": 3600
+}
