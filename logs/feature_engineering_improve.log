@@ -1,8 +1,3 @@
-2024-06-05 21:33:16,984 - INFO - Started feature engineering script
-2024-06-05 21:33:16,995 - INFO - Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/X_train.csv
-2024-06-05 21:33:16,997 - INFO - Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/X_test.csv
-2024-06-05 21:33:17,235 - INFO - Feature engineering completed and saved.
-2024-06-05 22:08:31,861 - INFO - Started feature engineering script
-2024-06-05 22:08:31,866 - INFO - Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/X_train.csv
-2024-06-05 22:08:31,868 - INFO - Loaded data from /Users/gorkemberkeyuksel/Documents/GitHub/Lunapki/crypto_trading_bot/data/X_test.csv
-2024-06-05 22:08:31,956 - INFO - Feature engineering completed and saved.
+version https://git-lfs.github.com/spec/v1
+oid sha256:411943b7365768dba540eb8685871578e9425f12005797b42a7d76cf287a35c3
+size 826

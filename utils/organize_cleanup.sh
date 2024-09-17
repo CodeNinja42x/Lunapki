@@ -1,18 +1,3 @@
-#!/bin/bash
-
-echo "Moving model files to the models directory..."
-mv *.pkl models/ 2>/dev/null
-
-echo "Moving log files to the logs directory..."
-mv *.log logs/ 2>/dev/null
-
-echo "Moving data files to the data directory..."
-mv *.csv data/ 2>/dev/null
-
-echo "Cleaning up temporary files..."
-rm -f data/temp*.csv
-
-echo "Moving scripts to the scripts directory..."
-mv *.py scripts/ 2>/dev/null
-
-echo "Cleanup and organization complete!"
+version https://git-lfs.github.com/spec/v1
+oid sha256:a911bada2a78c6cc3984340755f650b3a3fedd1d5b8b1656a5c4b1678312ae2b
+size 433

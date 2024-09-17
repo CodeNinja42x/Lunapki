@@ -1,0 +1,18 @@
+body {
+    background: #0a0a23;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+h1 {
+    color: #00b7eb;
+    text-align: center;
+}
+
+.chart-container {
+    width: 80%;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 183, 235, 0.5)uuu

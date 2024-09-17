@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flash Alerts Dashboard</title>
+    <link rel="stylesheet" href="/static/news_styles.css">
+</head>
+<body>
+    <h1>⚡ Latest Flash Alerts with Sentiment Analysis</h1>
+
+    <!-- Filter for news categories -->
+    <div class="filter-container">
+        <select id="news-filter" onchange="applyFilter()">
+            <option value="general">General</option>
+            <option value="business">Business</option>
+            <option value="sports">Sports</option>
+            <option value="technology">Technology</option>
+            <option value="entertainment">Entertainment</option>
+        </select>
+    </div>
+
+    <!-- Container to hold the news items -->
+    <div id="news-container"></div>
+
+    <script src="/static/news_app.js"></script>
+</body>
+</html>

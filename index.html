@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeonNerd's Retro-Futuristic World</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <!-- Firebase App (the core Firebase SDK) -->
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js"></script>
+
+    <script>
+      // Firebase configuration (replace with your Firebase credentials)
+      var firebaseConfig = {
+        apiKey: "YOUR_API_KEY",
+        authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+        databaseURL: "https://YOUR_PROJECT_ID.firebaseio.com",
+        projectId: "YOUR_PROJECT_ID",
+        storageBucket: "YOUR_PROJECT_ID.appspot.com",
+        messagingSenderId: "YOUR_SENDER_ID",
+        appId: "YOUR_APP_ID"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+    </script>
+</head>
+<body>
+    <div id="loading">Loading... Please wait, I'm still dial-up!</div>
+
+    <div class="container">
+        <header>
+            <h1>Welcome to NeonNerd's World!</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#" onclick="showSecret()">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <section class="content">
+            <h2>Experience the Future of Retro</h2>
+            <p>Get ready for neon lights, pixelated fun, and a whole lot of "beep boop!"</p>
+            <button class="neon-button">Click me for a surprise</button>
+        </section>
+
+        <p>Psst... Look for the secret!</p>
+
+        <div id="neonNerd">
+            <img src="neonNerd.png" alt="Neon Nerd" />
+        </div>
+        
+        <div id="secretMessage" style="display:none;">You've found the secret! Here's a cookie 🍪</div>
+
+        <audio id="synthwave" loop>
+            <source src="synthwave.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <button id="muteButton" class="neon-button">Mute Music</button>
+
+        <!-- Chatbot -->
+        <div id="chat-container">
+            <div id="chat-messages"></div>
+            <input type="text" id="chat-input" placeholder="Type your message...">
+            <button id="chat-send" class="neon-button">Send</button>
+        </div>
+
+        <!-- Feedback Form -->
+        <div id="feedback-form" style="display:none;">
+            <h3>Give Us Your Feedback!</h3>
+            <form id="feedbackForm">
+                <label for="feedback">Your Feedback:</label>
+                <textarea id="feedback" name="feedback" rows="4" cols="50" required></textarea>
+                <button type="submit" class="neon-button">Submit Feedback</button>
+            </form>
+            <p id="feedbackMessage"></p>
+        </div>
+        <button id="showFeedback" class="neon-button">Give Feedback</button>
+
+        <!-- Mini Game -->
+        <div id="game-container">
+            <canvas id="gameCanvas" width="400" height="400"></canvas>
+            <p id="gameMessage">Level: <span id="level">1</span> | Time: <span id="timer">0</span>s | Score: <span id="score">0</span></p>
+            <button id="startButton" class="neon-button">Start Game</button>
+        </div>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
