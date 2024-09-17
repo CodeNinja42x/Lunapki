@@ -1,0 +1,13 @@
+# Ignore virtual environments
+.venv/
+venv/
+*.dylib
+*.sh
+*.exe
+*.log
+
+# Ignore other files that are not needed
+__pycache__/
+*.pyc
+*.pyo
+
