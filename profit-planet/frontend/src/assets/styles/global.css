@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .landing-page {
+    text-align: center;
+    padding: 100px 0;
+    background-color: #282c34;
+    color: white;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #61dafb;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .features-page, .education-page, .community-page, .sentiment-analysis-page {
+    padding: 50px;
+  }
+  
