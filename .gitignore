@@ -5,6 +5,8 @@ venv/
 *.sh
 *.exe
 *.log
+# Firebase environment variables
+.env
 
 # Ignore other files that are not needed
 __pycache__/
@@ -21,3 +23,25 @@ venv/lib/python3.12/site-packages/numpy/.dylibs/libopenblas64_.0.dylib
 venv/
 *.dylib
 *.sh
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
